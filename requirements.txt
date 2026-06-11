@@ -1,0 +1,6 @@
+faiss-cpu
+numpy
+python-dotenv
+sentence-transformers
+google-genai
+pymupdf 
