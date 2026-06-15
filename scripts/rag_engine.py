@@ -66,7 +66,8 @@ client, embedding_model, index, chunks = (
 
 def ask_question(
     question,
-    chat_history
+    chat_history,
+    subject_filter="All Subjects"
 ):
 
     history_text = ""
@@ -81,7 +82,7 @@ def ask_question(
     search_query = question
 
     # ------------------------------------
-    # Rewrite follow-up questions
+    # Rewrite Follow-up Questions
     # ------------------------------------
 
     if len(chat_history) > 0:
@@ -118,7 +119,7 @@ Only return the rewritten question.
             search_query = question
 
     # ------------------------------------
-    # Create embedding
+    # Create Embedding
     # ------------------------------------
 
     question_embedding = (
@@ -133,18 +134,18 @@ Only return the rewritten question.
     )
 
     # ------------------------------------
-    # Retrieve chunks
+    # Retrieve Candidates
     # ------------------------------------
 
-    k = 5
+    retrieval_k = 15
 
     distances, indices = index.search(
         question_embedding,
-        k
+        retrieval_k
     )
 
     # ------------------------------------
-    # Relevance filter
+    # Relevance Filter
     # ------------------------------------
 
     if distances[0][0] > 1.3:
@@ -152,22 +153,109 @@ Only return the rewritten question.
         return (
             "I could not find this information in the NCERT data.",
             [],
+            [],
             chat_history
         )
 
+    # ------------------------------------
+    # Subject Filtering
+    # ------------------------------------
+
+    filtered_chunks = []
+    filtered_distances = []
+
+    for position, idx in enumerate(
+        indices[0]
+    ):
+
+        chunk = chunks[idx]
+
+        if subject_filter == "All Subjects":
+
+            filtered_chunks.append(
+                chunk
+            )
+
+            filtered_distances.append(
+                distances[0][position]
+            )
+
+        elif (
+            chunk["subject"].lower()
+            ==
+            subject_filter.lower()
+        ):
+
+            filtered_chunks.append(
+                chunk
+            )
+
+            filtered_distances.append(
+                distances[0][position]
+            )
+
+    if len(filtered_chunks) == 0:
+
+        return (
+            f"No relevant chunks found in {subject_filter}.",
+            [],
+            [],
+            chat_history
+        )
+
+    top_chunks = filtered_chunks[:5]
+    top_distances = filtered_distances[:5]
+
+    # ------------------------------------
+    # Build Context
+    # ------------------------------------
+
     context = ""
+
     sources = []
 
-    for i in range(k):
+    retrieval_details = []
 
-        chunk = chunks[
-            indices[0][i]
-        ]
+    for rank, (
+        chunk,
+        distance
+    ) in enumerate(
+        zip(
+            top_chunks,
+            top_distances
+        ),
+        start=1
+    ):
 
         sources.append(
             f"{chunk['subject']} > "
             f"{chunk['chapter_file']} > "
             f"{chunk['section']}"
+        )
+
+        similarity_score = max(
+            0,
+            min(
+                100,
+                int(
+                    (1 - float(distance))
+                    * 100
+                )
+            )
+        )
+
+        retrieval_details.append(
+            {
+                "rank": rank,
+                "subject": chunk["subject"],
+                "chapter": chunk["chapter_file"],
+                "section": chunk["section"],
+                "distance": round(
+                    float(distance),
+                    4
+                ),
+                "score": similarity_score
+            }
         )
 
         context += f"""
@@ -181,7 +269,7 @@ Section: {chunk['section']}
 """
 
     # ------------------------------------
-    # Build prompt
+    # Prompt
     # ------------------------------------
 
     prompt = f"""
@@ -211,7 +299,7 @@ Instructions:
 """
 
     # ------------------------------------
-    # Generate answer
+    # Gemini Response
     # ------------------------------------
 
     try:
@@ -230,7 +318,7 @@ Instructions:
         )
 
     # ------------------------------------
-    # Save conversation
+    # Save Chat History
     # ------------------------------------
 
     chat_history.append(
@@ -254,5 +342,6 @@ Instructions:
     return (
         answer,
         unique_sources,
+        retrieval_details,
         chat_history
     )
