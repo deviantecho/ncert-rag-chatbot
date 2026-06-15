@@ -1,6 +1,10 @@
 import os
+
+os.environ["TRANSFORMERS_VERBOSITY"] = "error"
+
 import json
 import faiss
+import warnings
 import numpy as np
 import streamlit as st
 
@@ -9,14 +13,22 @@ from sentence_transformers import SentenceTransformer
 from google import genai
 
 
+warnings.filterwarnings("ignore")
+
 load_dotenv()
 
 
 @st.cache_resource
 def load_resources():
 
+    print(
+        "\nLoading AI resources..."
+    )
+
     client = genai.Client(
-        api_key=os.getenv("GEMINI_API_KEY")
+        api_key=os.getenv(
+            "GEMINI_API_KEY"
+        )
     )
 
     embedding_model = SentenceTransformer(
@@ -34,6 +46,10 @@ def load_resources():
     ) as f:
 
         chunks = json.load(f)
+
+    print(
+        "Resources loaded successfully!"
+    )
 
     return (
         client,
@@ -64,7 +80,9 @@ def ask_question(
 
     search_query = question
 
+    # ------------------------------------
     # Rewrite follow-up questions
+    # ------------------------------------
 
     if len(chat_history) > 0:
 
@@ -97,9 +115,11 @@ Only return the rewritten question.
 
         except Exception:
 
-            pass
+            search_query = question
 
-    # Embed query
+    # ------------------------------------
+    # Create embedding
+    # ------------------------------------
 
     question_embedding = (
         embedding_model.encode(
@@ -112,16 +132,20 @@ Only return the rewritten question.
         dtype="float32"
     )
 
-    # Search FAISS
+    # ------------------------------------
+    # Retrieve chunks
+    # ------------------------------------
 
-    k = 3
+    k = 5
 
     distances, indices = index.search(
         question_embedding,
         k
     )
 
-    # Basic relevance filter
+    # ------------------------------------
+    # Relevance filter
+    # ------------------------------------
 
     if distances[0][0] > 1.3:
 
@@ -156,6 +180,10 @@ Section: {chunk['section']}
 --------------------------------
 """
 
+    # ------------------------------------
+    # Build prompt
+    # ------------------------------------
+
     prompt = f"""
 You are an NCERT Class 10 tutor.
 
@@ -171,21 +199,39 @@ Current Question:
 
 {question}
 
-Answer ONLY using the provided NCERT context.
+Instructions:
 
-If the answer is not present in the context, say:
-
-'I could not find this information in the NCERT data.'
-
-Explain in a Class 10 friendly manner.
+1. Answer ONLY using the provided NCERT context.
+2. Do not use outside knowledge.
+3. If the answer is not present, say:
+   'I could not find this information in the NCERT data.'
+4. Explain in a Class 10 friendly manner.
+5. Use bullet points when useful.
+6. Keep the answer concise and accurate.
 """
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt
-    )
+    # ------------------------------------
+    # Generate answer
+    # ------------------------------------
 
-    answer = response.text
+    try:
+
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt
+        )
+
+        answer = response.text
+
+    except Exception as e:
+
+        answer = (
+            f"Gemini API Error:\n\n{e}"
+        )
+
+    # ------------------------------------
+    # Save conversation
+    # ------------------------------------
 
     chat_history.append(
         {
