@@ -1,6 +1,4 @@
-24
-MATHEMATICS
-3
+PL ET VIN WO ARIABLES
 3.1 Introduction
 You must have come across situations like the one given below :
 Akhila went to a fair in her village. She wanted to enjoy rides on the Giant Wheel
@@ -12,19 +10,12 @@ had and how many times she played Hoopla, provided she spent ` 20.
 May be you will try it by considering different cases. If she has one ride, is it
 possible? Is it possible to have two rides? And so on. Or you may use the knowledge
 of Class IX, to represent such situations as linear equations in two variables.
-PAIR OF LINEAR EQUATIONS
-IN TWO VARIABLES
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-25
 Let us try this approach.
 Denote the number of rides that Akhila had by x, and the number of times she
 played Hoopla by y. Now the situation can be represented by the two equations:
-y = 1
-2 x
-(1)
-3x + 4y = 20
-(2)
+1/2 y = x (1)
+3x + 4y = 20 (2)
 Can we find the solutions of this pair of equations? There are several ways of
 finding these, which we will study in this chapter.
 3.2 Graphical Method of Solution of a Pair of Linear Equations
@@ -40,187 +31,63 @@ in two variables and the existence of solutions as follows:
 has a unique solution (consistent pair of equations).
 (ii) the lines may be parallel. In this case, the equations have no solution
 (inconsistent pair of equations).
-(iii) the lines may be coincident. In this case, the equations have infinitely many
+(i) the lines may be coincident. In this case, the equations have infinitely many
 solutions [dependent (consistent) pair of equations].
 Consider the following three pairs of equations.
-(i) x – 2y = 0 and 3x + 4y – 20 = 0
-(The lines intersect)
-(ii) 2x + 3y – 9 = 0 and 4x + 6y – 18 = 0
-(The lines coincide)
-(iii) x + 2y – 4 = 0 and 2x + 4y – 12 = 0
-(The lines are parallel)
-Let us now write down, and compare, the values of
-1
-2
-,
-and
-a
-b
-c
-a
-b
-in all the
-three examples. Here, a1, b1, c1 and a2, b2, c2 denote the coefficents of equations
+(i) x – 2y = 0 and 3x + 4y – 20 = 0 (The lines intersect)
+(ii) 2x + 3y – 9 = 0 and 4x + 6y – 18 = 0 (The lines coincide)
+(i) x + 2y – 4 = 0 and 2x + 4y – 12 = 0 (The lines are parallel)
+a/a b/b c/c Let us now write down, and compare, the values of 1 , 1 and 1 in all the
+2 2 2
+three examples. Here, a , b , c and a , b , c denote the coefficents of equations
+1 1 1 2 2 2
 given in the general form in Section 3.2.
 
-26
-MATHEMATICS
 Table 3.1
-Sl
-Pair of lines
-1
-2
-a
-1
-2
-b
-1
-2
-c
-Compare the
-Graphical
-Algebraic
-No.
-ratios
-representation interpretation
-1.
-x – 2y = 0
-1
-3
-2
-4
-−
-0
-20
-−
-1
-2
-a
-b
-a
-b
-≠
-Intersecting
-Exactly one
+a b c
+1 1 1
+Sl Pair of lines Compare the Graphical Algebraic
+a b c
+No. 2 2 2 ratios representationinterpretation
+1 −2 0 a 1 ≠ b 1
+1. x – 2y = 0 Intersecting Exactly one
+3 4 −20 a b
+2 2 lines solution
 3x + 4y – 20 = 0
-lines
-solution
 (unique)
-2.
-2x + 3y – 9 = 0
-2
-4
-3
-6
-9
-18
-−
-1
-2
-a
-b
-c
-a
-b
-c
-=
-Coincident
-Infinitely
+2 3 −9 a 1 = b 1 = c 1
+2.2x + 3y – 9 = 0 Coincident Infinitely
+4 6 −18 a b c
+2 2 2 lines many solutions
 4x + 6y – 18 = 0
-lines
-many solutions
-3.
-x + 2y – 4 = 0
-1
-2
-4
-12
-−
-1
-2
-a
-b
-c
-a
-b
-c
-=
-≠
-Parallel lines
-No solution
+1 2 −4 a 1 = b 1 ≠ c 1
+3. x + 2y – 4 = 0 Parallel lines No solution
+2 4 −12 a b c
+2 2 2
 2x + 4y – 12 = 0
 From the table above, you can observe that if the lines represented by the equation
-a1x + b1y + c1 = 0
-and
-a2x + b2y + c2 = 0
-are
-(i) intersecting, then
-1
-2
-a
-b
-a
-b
-≠
-⋅
-(ii) coincident, then
-1
-2
-a
-b
-c
-a
-b
-c
-=
-⋅
-(iii) parallel, then
-1
-2
-a
-b
-c
-a
-b
-c
-=
-≠
-⋅
+a x + b y + c = 0
+1/2 1/2 1/2 and a x + b y + c = 0
+a/a b/b are (i) intersecting, then 1 ≠ 1⋅
+2 2
+a/a b/b c/c (ii) coincident, then 1 = 1 = 1⋅
+2/a 2/b 2/c
+(i) parallel, then 1 = 1 ≠ 1⋅
+a/2 b/2 c/2
 In fact, the converse is also true for any pair of lines. You can verify them by
 considering some more examples by yourself.
 Let us now consider some more examples to illustrate it.
 Example 1 : Check graphically whether the pair of equations
-x + 3y = 6
-(1)
-and
-2x – 3y = 12
-(2)
+x + 3y = 6 (1)
+and 2x – 3y = 12 (2)
 is consistent. If so, solve them graphically.
 Solution : Let us draw the graphs of the Equations (1) and (2). For this, we find two
 solutions of each of the equations, which are given in Table 3.2
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-27
-Fig. 3.1
 Table 3.2
-x
-0
-6
-x
-0
-3
-y = 6
-3
-x
-−
-2
-0
-y = 2
-12
-3
-x −
-– 4
-–2
+x 0 6 x 0 3
+6 − x 2x −12
+y3 = 2 0 y3 = –4 –2
 Plot the points A(0, 2), B(6, 0),
 P(0, – 4) and Q(3, – 2) on graph
 paper, and join the points to form the
@@ -232,17 +99,14 @@ AB and PQ. So, the solution of the
 pair of linear equations is x = 6 and
 y = 0, i.e., the given pair of equations
 is consistent.
+Fig. 3.1
 Example 2 : Graphically, find whether the following pair of equations has no solution,
 unique solution or infinitely many solutions:
-5x – 8y + 1 = 0
-(1)
-3x – 24
-5 y + 3
-5 = 0
-(2)
-Solution : Multiplying Equation (2) by 5 ,
-3 we get
-5x – 8y + 1 = 0
+5x – 8y + 1 = 0 (1)
+24/5 3/5 3x – y + = 0 (2)
+,
+Solution : Multiplying Equation (2) by we get
+3/5x – 8y + 1 = 0
 But, this is the same as Equation (1). Hence the lines represented by Equations (1)
 and (2) are coincident. Therefore, Equations (1) and (2) have infinitely many solutions.
 Plot few points on the graph and verify it yourself.
@@ -252,32 +116,18 @@ skirts is two less than twice the number of pants purchased. Also, the number of
 is four less than four times the number of pants purchased”. Help her friends to find
 how many pants and skirts Champa bought.
 
-28
-MATHEMATICS
 Solution : Let us denote the number of pants by x and the number of skirts by y. Then
 the equations formed are :
-y = 2x – 2
-(1)
-and
-y = 4x – 4
-(2)
+y = 2x – 2 (1)
+and y = 4x – 4 (2)
 Let us draw the graphs of
 Equations (1) and (2) by finding two
 solutions for each of the equations.
 They are given in Table 3.3.
 Table 3.3
-x
-2
-0
-y = 2x – 2
-2
-– 2
-x
-0
-1
-y = 4x – 4
-– 4
-0
+x/x 2/0 0/1 y = 2x – 2 2 – 2
+y = 4x – 4 – 4 0
+Fig. 3.2
 Plot the points and draw the lines passing through them to represent the equations,
 as shown in Fig. 3.2.
 The two lines intersect at the point (1, 0). So, x = 1, y = 0 is the required solution
@@ -291,155 +141,71 @@ graphically.
 (i) 10 students of Class X took part in a Mathematics quiz. If the number of girls is 4
 more than the number of boys, find the number of boys and girls who took part in
 the quiz.
-Fig. 3.2
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-29
 (ii) 5 pencils and 7 pens together cost ` 50, whereas 7 pencils and 5 pens together
 cost ` 46. Find the cost of one pencil and that of one pen.
-2. On comparing the ratios
-1
-2
-,
-and
-a
-b
-c
-a
-b
-c , find out whether the lines representing the
+a/a b/b c/c 2. On comparing the ratios 1 , 1 and 1 , find out whether the lines representing the
+2 2 2
 following pairs of linear equations intersect at a point, are parallel or coincident:
-(i) 5x – 4y + 8 = 0
-(ii) 9x + 3y + 12 = 0
-7x + 6y – 9 = 0
-18x + 6y + 24 = 0
-(iii) 6x – 3y + 10 = 0
+(i) 5x – 4y + 8 = 0 (ii) 9x + 3y + 12 = 0
+7x + 6y – 9 = 0 18x + 6y + 24 = 0
+(i) 6x – 3y + 10 = 0
 2x – y + 9 = 0
-3. On comparing the ratios
-1
-2
-,
-a
-b
-a
-b
-and
-1
-2
-c
-c , find out whether the following pair of linear
+a/a b/b c/c 3. On comparing the ratios 1 , 1 and 1 , find out whether the following pair of linear
+2 2 2
 equations are consistent, or inconsistent.
-(i) 3x + 2y = 5 ;
-2x – 3y = 7
-(ii) 2x – 3y = 8 ;
-4x – 6y = 9
-(iii)
-3
-5
-7
-2
-3
-x
-y
-
-
-; 9x – 10y = 14
-(iv) 5x – 3y = 11 ; – 10x + 6y = –22
-(v)
-4
-2
-8
-3 x
-y
-
-
-; 2x + 3y = 12
+(i) 3x + 2y = 5 ; 2x – 3y = 7 (ii) 2x – 3y = 8 ; 4x – 6y = 9
+3/2 5/3 (i) x  y  7;9x – 10y = 14 (iv) 5x – 3y = 11 ; – 10x + 6y = –22
+4/3 (v) x  2y 8 ; 2x + 3y = 12
 4. Which of the following pairs of linear equations are consistent/inconsistent? If
 consistent, obtain the solution graphically:
-(i) x + y = 5,
-2x + 2y = 10
-(ii) x – y = 8,
-3x – 3y = 16
-(iii) 2x + y – 6 = 0,
-4x – 2y – 4 = 0
-(iv) 2x – 2y – 2 = 0,
-4x – 4y – 5 = 0
+(i) x + y = 5, 2x + 2y = 10
+(ii) x – y = 8, 3x – 3y = 16
+(i) 2x + y – 6 = 0, 4x – 2y – 4 = 0
+(iv) 2x – 2y – 2 = 0, 4x – 4y – 5 = 0
 5. Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is
 36 m. Find the dimensions of the garden.
 6. Given the linear equation 2x + 3y – 8 = 0, write another linear equation in two variables
 such that the geometrical representation of the pair so formed is:
-(i) intersecting lines
-(ii) parallel lines
-(iii) coincident lines
+(i) intersecting lines (ii) parallel lines
+(i) coincident lines
 7. Draw the graphs of the equations x – y + 1 = 0 and 3x + 2y – 12 = 0. Determine the
 coordinates of the vertices of the triangle formed by these lines and the x-axis, and
 shade the triangular region.
 
-30
-MATHEMATICS
 3.3 Algebraic Methods of Solving a Pair of Linear Equations
 In the previous section, we discussed how to solve a pair of linear equations graphically.
 The graphical method is not convenient in cases when the point representing the
-solution of the linear equations has non-integral coordinates like (
-)
-3, 2 7 ,
-(–1.75, 3.3),
-4
-1
+( )
+solution of the linear equations has non-integral coordinates like 3, 2 7 ,
+ 4 1 
 ,
-13 19
-
-
-
-
-
-, etc. There is every possibility of making mistakes while reading
+(–1.75, 3.3),  , etc. There is every possibility of making mistakes while reading
+13 19
 such coordinates. Is there any alternative method of finding the solution? There are
 several algebraic methods, which we shall now discuss.
 3.3.1 Substitution Method : We shall explain the method of substitution by taking
 some examples.
 Example 4 : Solve the following pair of equations by substitution method:
-7x – 15y = 2
-(1)
-x + 2y = 3
-(2)
+7x – 15y = 2 (1)
+x + 2y = 3 (2)
 Solution :
 Step 1 : We pick either of the equations and write one variable in terms of the other.
 Let us consider the Equation (2) :
 x + 2y = 3
-and write it as
-x = 3 – 2y
-(3)
+and write it as x = 3 – 2y (3)
 Step 2 : Substitute the value of x in Equation (1). We get
 7(3 – 2y) – 15y = 2
-i.e.,
-21 – 14y – 15y = 2
-i.e.,
-– 29y = –19
-Therefore,
-y = 19
-29
+i.e., 21 – 14y – 15y = 2
+i.e., –29y = –19
+19/29 Therefore, y =
 Step 3 : Substituting this value of y in Equation (3), we get
-x = 3 –
-19
-2 29
-
-
-
-
-
-
-= 49
-29
-Therefore, the solution is x = 49
-29 , y = 19
-29 .
+19 49
+x = 3 – 2  =
+29 29
+49/29 19/29 Therefore, the solution is x = , y = .
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-31
-Verification : Substituting x = 49
-29 and y = 19
-29 , you can verify that both the Equations
+49/29 19/29 Verification : Substituting x = and y = , you can verify that both the Equations
 (1) and (2) are satisfied.
 To understand the substitution method more clearly, let us consider it stepwise:
 Step 1 : Find the value of one variable, say y in terms of the other variable, i.e., x from
@@ -460,48 +226,30 @@ three times as old as you will be.” (Isn’t this interesting?) Represent this
 algebraically and graphically by the method of substitution.
 Solution : Let s and t be the ages (in years) of Aftab and his daughter, respectively.
 Then, the pair of linear equations that represent the situation is
-s – 7 = 7 (t – 7), i.e., s – 7t + 42 = 0
-(1)
-and
-s + 3 = 3 (t + 3), i.e., s – 3t = 6
-(2)
+s – 7 = 7 (t – 7), i.e., s – 7t + 42 = 0 (1)
+and s + 3 = 3 (t + 3), i.e., s – 3t = 6 (2)
 Using Equation (2), we get s = 3t + 6.
 Putting this value of s in Equation (1), we get
 (3t + 6) – 7t + 42 = 0,
-i.e.,
-4t = 48, which gives t = 12.
+i.e., 4t = 48, which gives t = 12.
 Putting this value of t in Equation (2), we get
 s = 3 (12) + 6 = 42
 
-32
-MATHEMATICS
 So, Aftab and his daughter are 42 and 12 years old, respectively.
 Verify this answer by checking if it satisfies the conditions of the given problems.
 Example 6 : In a shop the cost of 2 pencils and 3 erasers is `9 and the cost of 4
 pencils and 6 erasers is `18. Find the cost of each pencil and each eraser.
 Solution : The pair of linear equations formed were:
-2x + 3y = 9
-(1)
-4x + 6y = 18
-(2)
+2x + 3y = 9 (1)
+4x + 6y = 18 (2)
 We first express the value of x in terms of y from the equation 2x + 3y = 9, to get
-x = 9
-3
-2
-y
-−
-(3)
+9−3y
+x = (3)
 Now we substitute this value of x in Equation (2), to get
-4(9
-3 )
-2
-y
-−
+4(9−3y)
 + 6y = 18
-i.e.,
-18 – 6y + 6y = 18
-i.e.,
-18 = 18
+i.e., 18 – 6y + 6y = 18
+i.e., 18 = 18
 This statement is true for all values of y. However, we do not get a specific
 value of y as a solution. Therefore, we cannot obtain a specific value of x. This
 situation has arisen because both the given equations are the same. Therefore,
@@ -511,96 +259,45 @@ given situation.
 Example 7 : Two rails are represented by the equations
 x + 2y – 4 = 0 and 2x + 4y – 12 = 0. Will the rails cross each other?
 Solution : The pair of linear equations formed were:
-x + 2y – 4 = 0
-(1)
-2x + 4y – 12 = 0
-(2)
+x + 2y – 4 = 0 (1)
+2x + 4y – 12 = 0 (2)
 We express x in terms of y from Equation (1) to get
 x = 4 – 2y
 Now, we substitute this value of x in Equation (2) to get
 2(4 – 2y) + 4y – 12 = 0
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-33
-i.e.,
-8 – 12 = 0
-i.e.,
-– 4 = 0
+i.e., 8 – 12 = 0
+i.e., – 4 = 0
 which is a false statement.
 Therefore, the equations do not have a common solution. So, the two rails will not
 cross each other.
 EXERCISE 3.2
 1. Solve the following pair of linear equations by the substitution method.
-(i) x + y = 14
-(ii) s – t = 3
-x – y = 4
-6
-3
-2
-s
-t
-
-
-(iii) 3x – y = 3
-(iv) 0.2x + 0.3y = 1.3
-9x – 3y = 9
-0.4x + 0.5y = 2.3
-(v)
-2
-3
-0
-x
-y
-
-
-(vi) 3
-5
-2
-3
-x
-y
-
-
-3
-8
-0
-x
-y
-
-
-13
-3
-2
-6
-x
-y
-
-
+(i) x + y = 14 (ii) s – t = 3
+s/3 t/2 x – y = 4   6
+(i) 3x – y = 3 (iv) 0.2x + 0.3y = 1.3
+9x – 3y = 9 0.4x + 0.5y = 2.3
+3x/2 5y/3 (v) 2x 3y0 (vi)   2
+x/3 y/2 13/6 3x 8y 0  
 2. Solve 2x + 3y = 11 and 2x – 4y = – 24 and hence find the value of ‘m’ for which
-y = mx + 3.
-3. Form the pair of linear equations for the following problems and find their solution by
+y = mx + 3.3. Form the pair of linear equations for the following problems and find their solution by
 substitution method.
 (i) The difference between two numbers is 26 and one number is three times the other.
 Find them.
 (ii) The larger of two supplementary angles exceeds the smaller by 18 degrees. Find
 them.
-(iii) The coach of a cricket team buys 7 bats and 6 balls for ` 3800. Later, she buys 3
+(i) The coach of a cricket team buys 7 bats and 6 balls for ` 3800. Later, she buys 3
 bats and 5 balls for ` 1750. Find the cost of each bat and each ball.
 (iv) The taxi charges in a city consist of a fixed charge together with the charge for the
 distance covered. For a distance of 10 km, the charge paid is ` 105 and for a
 journey of 15 km, the charge paid is ` 155. What are the fixed charges and the
 charge per km? How much does a person have to pay for travelling a distance of
 25 km?
-(v) A fraction becomes 9
-11
-, if 2 is added to both the numerator and the denominator.
-If, 3 is added to both the numerator and the denominator it becomes 5
-6
-. Find the
+(v) A fraction becomes , if 2 is added to both the numerator and the denominator.
+11 5
+If, 3 is added to both the numerator and the denominator it becomes . Find the
 fraction.
 
-34
-MATHEMATICS
 (vi) Five years hence, the age of Jacob will be three times that of his son. Five years
 ago, Jacob’s age was seven times that of his son. What are their present ages?
 3.3.2 Elimination Method
@@ -613,26 +310,19 @@ monthly incomes.
 Solution : Let us denote the incomes of the two person by ` 9x and ` 7x and their
 expenditures by ` 4y and ` 3y respectively. Then the equations formed in the situation
 is given by :
-9x – 4y = 2000
-(1)
-and
-7x – 3y = 2000
-(2)
+9x – 4y = 2000 (1)
+and 7x – 3y = 2000 (2)
 Step 1 : Multiply Equation (1) by 3 and Equation (2) by 4 to make the coefficients of
 y equal. Then we get the equations:
-27x – 12y = 6000
-(3)
-28x – 12y = 8000
-(4)
+27x – 12y = 6000 (3)
+28x – 12y = 8000 (4)
 Step 2 : Subtract Equation (3) from Equation (4) to eliminate y, because the coefficients
 of y are the same. So, we get
 (28x – 27x) – (12y – 12y) = 8000 – 6000
-i.e.,
-x = 2000
+i.e., x = 2000
 Step 3 : Substituting this value of x in (1), we get
 9(2000) – 4y = 2000
-i.e.,
-y = 4000
+i.e., y = 4000
 So, the solution of the equations is x = 2000, y = 4000. Therefore, the monthly incomes
 of the persons are ` 18,000 and ` 14,000, respectively.
 Verification : 18000 : 14000 = 9 : 7. Also, the ratio of their expenditures =
@@ -641,8 +331,6 @@ Remarks :
 1. The method used in solving the example above is called the elimination method,
 because we eliminate one variable first, to get a linear equation in one variable.
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-35
 In the example above, we eliminated y. We could also have eliminated x. Try
 doing it that way.
 2. You could also have used the substitution, or graphical method, to solve this
@@ -662,48 +350,34 @@ value of the other variable.
 Now to illustrate it, we shall solve few more examples.
 Example 9 : Use elimination method to find all possible solutions of the following pair
 of linear equations :
-2x + 3y = 8
-(1)
-4x + 6y = 7
-(2)
+2x + 3y = 8 (1)
+4x + 6y = 7 (2)
 Solution :
 Step 1 : Multiply Equation (1) by 2 and Equation (2) by 1 to make the
 coefficients of x equal. Then we get the equations as :
-4x + 6y = 16
-(3)
-4x + 6y = 7
-(4)
+4x + 6y = 16 (3)
+4x + 6y = 7 (4)
 Step 2 : Subtracting Equation (4) from Equation (3),
 (4x – 4x) + (6y – 6y) = 16 – 7
-i.e.,
-0 = 9, which is a false statement.
+i.e., 0 = 9, which is a false statement.
 Therefore, the pair of equations has no solution.
 Example 10 : The sum of a two-digit number and the number obtained by reversing
 the digits is 66. If the digits of the number differ by 2, find the number. How many such
 numbers are there?
 
-36
-MATHEMATICS
 Solution : Let the ten’s and the unit’s digits in the first number be x and y, respectively.
-So, the first number may be written as 10 x + y in the expanded form (for example,
+So, the first number may be written as 10x + y in the expanded form (for example,
 56 = 10(5) + 6).
 When the digits are reversed, x becomes the unit’s digit and y becomes the ten’s
 digit. This number, in the expanded notation is 10y + x (for example, when 56 is
 reversed, we get 65 = 10(6) + 5).
 According to the given condition.
 (10x + y) + (10y + x) = 66
-i.e.,
-11(x + y) = 66
-i.e.,
-x + y = 6
-(1)
+i.e., 11(x + y) = 66
+i.e., x + y = 6 (1)
 We are also given that the digits differ by 2, therefore,
-either
-x – y = 2
-(2)
-or
-y – x = 2
-(3)
+either x – y = 2 (2)
+or y – x = 2 (3)
 If x – y = 2, then solving (1) and (2) by elimination, we get x = 4 and y = 2.
 In this case, we get the number 42.
 If y – x = 2, then solving (1) and (3) by elimination, we get x = 2 and y = 4.
@@ -713,34 +387,17 @@ Verification : Here 42 + 24 = 66 and 4 – 2 = 2. Also 24 + 42 = 66 and 4 – 2 
 EXERCISE 3.3
 1. Solve the following pair of linear equations by the elimination method and the substitution
 method :
-(i) x + y = 5 and 2x – 3y = 4
-(ii) 3x + 4y = 10 and 2x – 2y = 2
-(iii) 3x – 5y – 4 = 0 and 9x = 2y + 7
-(iv)
-2
-1 and
-3
-2
-3
-x
-y
-x
-
-
-
-
+(i) x + y = 5 and 2x – 3y = 4 (ii) 3x + 4y = 10 and 2x – 2y = 2
+x/2 2y/3 y/3 (i) 3x – 5y – 4 = 0 and 9x = 2y + 7 (iv)   1and x  3
 2. Form the pair of linear equations in the following problems, and find their solutions
 (if they exist) by the elimination method :
 (i) If we add 1 to the numerator and subtract 1 from the denominator, a fraction reduces
-to 1. It becomes 1
-2 if we only add 1 to the denominator. What is the fraction?
+1/2 to 1. It becomes if we only add 1 to the denominator. What is the fraction?
 (ii) Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as
 old as Sonu. How old are Nuri and Sonu?
-(iii) The sum of the digits of a two-digit number is 9. Also, nine times this number is
+(i) The sum of the digits of a two-digit number is 9. Also, nine times this number is
 twice the number obtained by reversing the order of the digits. Find the number.
 
-PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
-37
 (iv) Meena went to a bank to withdraw ` 2000. She asked the cashier to give her
 ` 50 and ` 100 notes only. Meena got 25 notes in all. Find how many notes of
 ` 50 and ` 100 she received.
@@ -760,47 +417,27 @@ equations. In this case, the pair of equations is consistent.
 (ii) If the lines coincide, then there are infinitely many solutions — each point on
 the line being a solution. In this case, the pair of equations is dependent
 (consistent).
-(iii) If the lines are parallel, then the pair of equations has no solution. In this case, the
+(i) If the lines are parallel, then the pair of equations has no solution. In this case, the
 pair of equations is inconsistent.
 3. Algebraic Methods : We have discussed the following methods for finding the solution(s)
 of a pair of linear equations :
 (i) Substitution Method
 (ii) Elimination Method
-4. If a pair of linear equations is given by a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0, then the
+4. If a pair of linear equations is given by ax + by + c = 0 and ax + by + c = 0, then the
+1 1 1 2 2 2
 following situations can arise :
-(i)
-1
-2
-1
-a
-b
-a
-b
-
-: In this case, the pair of linear equations is consistent.
-(ii)
-1
-2
-a
-b
-c
-a
-b
-c
-
-
-: In this case, the pair of linear equations is inconsistent.
-(iii)
-1
-2
-a
-b
-c
-a
-b
-c
-
-: In this case, the pair of linear equations is dependent and consistent.
+a b
+(i) 1  1 : In this case, the pair of linear equations is consistent.
+a b
+2 1
+a b c
+(ii) 1  1  1 : In this case, the pair of linear equations is inconsistent.
+a b c
+2 2 2
+a b c
+(i) 1  1  1 : In this case, the pair of linear equations is dependent and consistent.
+a b c
+2 2 2
 5. There are several situations which can be mathematically represented by two equations
 that are not linear to start with. But we alter them so that they are reduced to a pair of
 linear equations.

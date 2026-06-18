@@ -4,15 +4,27 @@ import json
 import numpy as np
 
 
+# ----------------------------------
+# Load embedding model
+# ----------------------------------
+
 model = SentenceTransformer(
     "all-MiniLM-L6-v2"
 )
 
 
+# ----------------------------------
+# Load FAISS index
+# ----------------------------------
+
 index = faiss.read_index(
     "data/faiss_index.bin"
 )
 
+
+# ----------------------------------
+# Load metadata
+# ----------------------------------
 
 with open(
     "data/chunk_metadata.json",
@@ -23,13 +35,23 @@ with open(
     chunks = json.load(f)
 
 
+# ----------------------------------
+# Ask question
+# ----------------------------------
+
 question = input(
     "\nAsk a question: "
 )
 
 
+# ----------------------------------
+# Create query embedding
+# Must match embedding generation
+# ----------------------------------
+
 question_embedding = model.encode(
-    question
+    question,
+    normalize_embeddings=True
 )
 
 question_embedding = np.array(
@@ -38,13 +60,21 @@ question_embedding = np.array(
 )
 
 
-k = 3
+# ----------------------------------
+# Search FAISS
+# ----------------------------------
 
-distances, indices = index.search(
+k = 5
+
+scores, indices = index.search(
     question_embedding,
     k
 )
 
+
+# ----------------------------------
+# Display results
+# ----------------------------------
 
 print("\nTOP RESULTS\n")
 
@@ -58,7 +88,7 @@ for i in range(k):
     print("=" * 80)
 
     print(
-        f"Distance: {distances[0][i]:.4f}"
+        f"Similarity: {scores[0][i]:.4f}"
     )
 
     print(
@@ -73,10 +103,14 @@ for i in range(k):
         f"Section: {chunk['section']}"
     )
 
+    print(
+        f"Chunk ID: {chunk.get('chunk_id', 'N/A')}"
+    )
+
     print()
 
     print(
-        chunk["text"][:500]
+        chunk["text"][:800]
     )
 
     print("\n")

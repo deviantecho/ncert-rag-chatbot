@@ -117,7 +117,7 @@ with st.sidebar:
     with col2:
         st.metric(
             "Chunks",
-            "465"
+            "785"
         )
 
     st.metric(
@@ -332,7 +332,6 @@ if question:
                     st.session_state.chat_history,
                     subject_filter
                 )
-
                 st.session_state.chat_history = (
                     updated_history
                 )
@@ -376,41 +375,24 @@ if question:
                             retrieval_details
                         ):
 
-                            score_color = (
-                                "#22c55e"
-                                if item["score"] >= 80
-                                else "#eab308"
-                                if item["score"] >= 60
-                                else "#ef4444"
-                            )
-
                             st.markdown(
-                                f"""
+    f"""
 <div class="retrieval-card">
 
-### #{item['rank']}
+<h3>#{item['rank']}</h3>
 
-**Subject:** {item['subject']}
+<b>Subject:</b> {item['subject']}<br><br>
 
-**Chapter:** {item['chapter']}
+<b>Chapter:</b> {item['chapter']}<br><br>
 
-**Section:** {item['section']}
+<b>Section:</b> {item['section']}<br><br>
 
-<p style="
-font-size:18px;
-font-weight:700;
-color:{score_color};
-margin-bottom:8px;
-">
-Relevance Score: {item['score']}%
-</p>
-
-Distance: {item['distance']}
+<b>FAISS Distance:</b> {item['distance']}
 
 </div>
 """,
-                                unsafe_allow_html=True
-                            )
+                               unsafe_allow_html=True
+)
 
                 st.session_state.messages.append(
                     {

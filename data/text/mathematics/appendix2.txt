@@ -1,14 +1,12 @@
-MATHEMATICAL MODELLING
-239
+MATHEMATICAL MODELLING 239
 A2
+M M
+ATHEMATICAL ODELLING
 A2.1 Introduction
-
-An adult human body contains approximately 1,50,000 km of arteries and veins
+ An adult human body contains approximately 1,50,000 km of arteries and veins
 that carry blood.
-
-The human heart pumps 5 to 6 litres of blood in the body every 60 seconds.
-
-The temperature at the surface of the Sun is about 6,000° C.
+ The human heart pumps 5 to 6 litres of blood in the body every 60 seconds.
+ The temperature at the surface of the Sun is about 6,000° C.
 Have you ever wondered how our scientists and mathematicians could possibly
 have estimated these results? Did they pull out the veins and arteries from some adult
 dead bodies and measure them? Did they drain out the blood to arrive at these results?
@@ -27,10 +25,8 @@ model. Some examples, where mathematical modelling is of great importance, are:
 (ii) Estimating the mass of the Earth and other planets.
 (iii) Estimating the distance between Earth and any other planet.
 (iv) Predicting the arrrival of the monsoon in a country.
-MATHEMATICAL MODELLING
 Reprint 2026-27
-240
-MATHEMATICS
+240 MATHEMATICS
 (v) Predicting the trend of the stock market.
 (vi) Estimating the volume of blood inside the body of a person.
 (vii) Predicting the population of a city after 10 years.
@@ -60,14 +56,13 @@ a sample and from it try and estimate the total number of fishes in the lake.
 Step 2 (Mathematical description and formulation) : Describe, in mathematical
 terms, the different aspects of the problem. Some ways to describe the features
 mathematically, include:
-define variables
-write equations or inequalities
-gather data and organise into tables
-make graphs
-calculate probabilities
+ define variables
+ write equations or inequalities
+ gather data and organise into tables
+ make graphs
+ calculate probabilities
 Reprint 2026-27
-MATHEMATICAL MODELLING
-241
+MATHEMATICAL MODELLING 241
 For example, having taken a sample, as stated in Step 1, how do we estimate the
 entire population? We would have to then mark the sampled fishes, allow them to mix
 with the remaining ones in the lake, again draw a sample from the lake, and see how
@@ -83,15 +78,14 @@ entire population.
 Step 3 (Solving the mathematical problem) : The simplified mathematical problem
 developed in Step 2 is then solved using various mathematical techniques.
 For instance, suppose in the second sample in the example in Step 2, 5 fishes are
-marked. So, 5
+5 1
+marked. So,
+,i.e., ,
+of the population is marked. If this is typical of the whole
+50 10
 1
-,
-,
-i.e.,
-50
-10  of the population is marked. If this is typical of the whole
-population, then 1
-10 th of the population = 20.
+population, then th of the population = 20.
+10
 So, the whole population = 20 × 10 = 200.
 Step 4 (Interpreting the solution) : The solution obtained in the previous step
 is now looked at, in the context of the real-life situation that we had started with in
@@ -102,37 +96,35 @@ Step 5 (Validating the model) : We go back to the original situation and see if 
 results of the mathematical work make sense. If so, we use the model until new
 information becomes available or assumptions change.
 Sometimes, because of the simplification assumptions we make, we may lose
-essential  aspects of the real problem while giving its mathematical description. In
+essential aspects of the real problem while giving its mathematical description. In
 such cases, the solution could very often be off the mark, and not make sense in the
 real situation. If this happens, we reconsider the assumptions made in Step 1 and
 revise them to be more realistic, possibly by including some factors which were not
 considered earlier.
 Reprint 2026-27
-242
-MATHEMATICS
-Real-life problem
-Describe the problem
-in mathematical terms
-Solve the
-problem
-Interpret the
-solution in the
-real-life situation
-Does the solution
-capture the real-life
-situation?
-Model is
-suitable
-Simplify
-Change
-assumptions
+242 MATHEMATICS
 For instance, in Step 3 we had obtained an estimate of the entire population of
-fishes. It may  not be the actual number of fishes in the pond. We next see whether
+fishes. It may not be the actual number of fishes in the pond. We next see whether
 this is a good estimate of the population by repeating Steps 2 and 3 a few times, and
 taking the mean of the results obtained. This would give a closer estimate of the
 population.
 Another way of visualising the process of mathematical modelling is shown
 in Fig. A2.1.
+Real-life problem
+Simplify
+Describe the problem
+in mathematical terms
+Solve the
+Change problem
+assumptions
+Interpret the
+solution in the
+real-life situation
+Does the solution
+No Yes Model is
+capture the real-life
+suitable
+situation?
 Fig. A2.1
 Modellers look for a balance between simplification (for ease of solution) and
 accuracy. They hope to approximate reality closely enough to make some progress.
@@ -140,11 +132,8 @@ The best outcome is to be able to predict what will happen, or estimate an outco
 with reasonable accuracy. Remember that different assumptions we use for simplifying
 the problem can lead to different models. So, there are no perfect models. There are
 good ones and yet better ones.
-No
-Yes
 Reprint 2026-27
-MATHEMATICAL MODELLING
-243
+MATHEMATICAL MODELLING 243
 EXERCISE A2.1
 1. Consider the following situation.
 A problem dating back to the early 13th century, posed by Leonardo Fibonacci asks
@@ -153,48 +142,29 @@ Assume that a pair of rabbits produces a pair of offspring each month and that e
 pair of rabbits produces their first offspring at the age of 2 months. Month by month
 the number of pairs of rabbits is given by the sum of the rabbits in the two preceding
 months, except for the 0th and the 1st months.
-Month
-Pairs of Rabbits
-0
-1
-1
-1
-2
-2
-3
-3
-4
-5
-5
-8
-6
-13
-7
-21
-8
-34
-9
-55
-10
-89
-11
-144
-12
-233
-13
-377
-14
-610
-15
-987
-16
-1597
+Month Pairs of Rabbits
+0 1
+1 1
+2 2
+3 3
+4 5
+5 8
+6 13
+7 21
+8 34
+9 55
+10 89
+11 144
+12 233
+13 377
+14 610
+15 987
+16 1597
 After just 16 months, you have nearly 1600 pairs of rabbits!
 Clearly state the problem and the different stages of mathematical modelling in this
 situation.
 Reprint 2026-27
-244
-MATHEMATICS
+244 MATHEMATICS
 A2.3 Some Illustrations
 Let us now consider some examples of mathematical modelling.
 Example 1 (Rolling of a pair of dice) : Suppose your teacher challenges you to the
@@ -210,88 +180,26 @@ to finding out the probabilities of the various possible sums of numbers that th
 could show.
 We can model the situation very simply by representing a roll of the dice as a random
 choice of one of the following thirty six pairs of numbers.
-(1, 1)
-(1, 2)
-(1, 3)
-(1, 4)
-(1, 5)
-(1, 6)
-(2, 1)
-(2, 2)
-(2, 3)
-(2, 4)
-(2, 5)
-(2, 6)
-(3, 1)
-(3, 2)
-(3, 3)
-(3, 4)
-(3, 5)
-(3, 6)
-(4, 1)
-(4, 2)
-(4, 3)
-(4, 4)
-(4, 5)
-(4, 6)
-(5, 1)
-(5, 2)
-(5, 3)
-(5, 4)
-(5, 5)
-(5, 6)
-(6, 1)
-(6, 2)
-(6, 3)
-(6, 4)
-(6, 5)
-(6, 6)
+(1, 1) (1, 2) (1, 3) (1, 4) (1, 5) (1, 6)
+(2, 1) (2, 2) (2, 3) (2, 4) (2, 5) (2, 6)
+(3, 1) (3, 2) (3, 3) (3, 4) (3, 5) (3, 6)
+(4, 1) (4, 2) (4, 3) (4, 4) (4, 5) (4, 6)
+(5, 1) (5, 2) (5, 3) (5, 4) (5, 5) (5, 6)
+(6, 1) (6, 2) (6, 3) (6, 4) (6, 5) (6, 6)
 The first number in each pair represents the number showing on the first die, and the
 second number is the number showing on the second die.
 Step 3 (Solving the mathematical problem) : Summing the numbers in each pair
 above, we find that possible sums are 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12. We have to find
 the probability for each of them, assuming all 36 pairs are equally likely.
 We do this in the following table.
-Sum
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+Sum 2 3 4 5 6 7 8 9 10 11 12
+1 2 3 4 5 6 5 4 3 2 1
 Probability
-1
-36
-2
-36
-3
-36
-4
-36
-5
-36
-6
-36
-5
-36
-4
-36
-3
-36
-2
-36
-1
-36
+36 36 36 36 36 36 36 36 36 36 36
 Observe that the chance of getting a sum of a seven is 1/6, which is larger than the
 chances of getting other numbers as sums.
 Reprint 2026-27
-MATHEMATICAL MODELLING
-245
+MATHEMATICAL MODELLING 245
 Step 4 (Interpreting the solution) : Since the probability of getting the sum 7 is the
 highest, you should repeatedly guess the number seven.
 Step 5 (Validating the model) : Toss a pair of dice a large number of times and
@@ -326,8 +234,7 @@ paying interest was to borrow in one currency and repay in another, the interest
 being disguised in the exchange rate.
 Let us now come to a related mathematical modelling problem.
 Reprint 2026-27
-246
-MATHEMATICS
+246 MATHEMATICS
 Example 2 : Juhi wants to buy a bicycle. She goes to the market and finds that the
 bicycle she likes is available for ` 1800. Juhi has ` 600 with her. So, she tells the
 shopkeeper that she would not be able to buy it. The shopkeeper, after a bit of
@@ -352,43 +259,25 @@ So, the balance price that needs to be paid in the instalment scheme = ` (1800 �
 Let r % per annum be the rate of interest charged by the shopkeeper.
 Amount of each instalment = ` 610
 Amount paid in instalments = ` 610 + ` 610 = ` 1220
-Interest paid in instalment scheme = ` 1220 – ` 1200 = ` 20
-(1)
+Interest paid in instalment scheme = ` 1220 – ` 1200 = ` 20 (1)
 Since, Juhi kept a sum of ` 1200 for one month, therefore,
 Principal for the first month = ` 1200
 Principal for the second month = ` (1200 – 610) = ` 590
 Balance of the second principal ` 590 + interest charged (` 20) = monthly instalment
 (` 610) = 2nd instalment
 So, the total principal for one month = ` 1200 + ` 590 = ` 1790
-Now,
-interest = ` 1790
-1
-100
-12
-r
-
-
-
-(2)
+1790r1
+Now, interest = ` (2)
+10012
 Reprint 2026-27
-MATHEMATICAL MODELLING
-247
+MATHEMATICAL MODELLING 247
 Step 3 (Solving the problem) : From (1) and (2)
+1790r1
+= 20
+10012
+201200
+or r = = 13.14 (approx.)
 1790
-1
-100
-12
-r
-
-
-
- = 20
-or
-r = 20
-1200
-1790
-
- = 13.14 (approx.)
 Step 4 (Interpreting the solution) : The rate of interest charged in the instalment
 scheme = 13.14 %.
 The rate of interest charged by the bank = 10%
@@ -418,8 +307,7 @@ find the number of trees there are on this
 tract of land as part of an environmental
 census.
 Reprint 2026-27
-248
-MATHEMATICS
+248 MATHEMATICS
 3. A T.V. can be purchased for ` 24000 cash or for ` 8000 cashdown payment and six
 monthly instalments of ` 2800 each. Ali goes to market to buy a T.V., and he has
 ` 8000 with him. He has now two options. One is to buy TV under instalment scheme
@@ -433,12 +321,12 @@ improve existing products, develop better ones, or predict the behaviour of cert
 products.
 There are, of course, many specific reasons for the importance of modelling, but
 most are related in some ways to the following :
-To gain understanding. If we have a mathematical model which reflects the
+ To gain understanding. If we have a mathematical model which reflects the
 essential behaviour of a real-world system of interest, we can understand that
 system better through an analysis of the model. Furthermore, in the process of
 building the model we find out which factors are most important in the system,
 and how the different aspects of the system are related.
-To predict, or forecast, or simulate. Very often, we wish to know what a real-
+ To predict, or forecast, or simulate. Very often, we wish to know what a real-
 world system will do in the future, but it is expensive, impractical or impossible to
 experiment directly with the system. For example, in weather prediction, to study
 drug efficacy in humans, finding an optimum design of a nuclear reactor, and so
@@ -457,9 +345,8 @@ pattern is extended into the future in order to prepare a forecast. This basic
 strategy is employed in most forecasting techniques, and is based on the assumption
 that the pattern that has been identified will continue in the future also.
 Reprint 2026-27
-MATHEMATICAL MODELLING
-249
-To estimate. Often, we need to estimate large values. You’ve seen examples of
+MATHEMATICAL MODELLING 249
+ To estimate. Often, we need to estimate large values. You’ve seen examples of
 the trees in a forest, fish in a lake, etc. For another example, before elections, the
 contesting parties want to predict the probability of their party winning the elections.
 In particular, they want to estimate how many people in their constituency would

@@ -12,6 +12,10 @@ all_embeddings = []
 
 for embedding_file in embeddings_folder.glob("*.json"):
 
+    print(
+        f"Loading {embedding_file.name}"
+    )
+
     with open(
         embedding_file,
         "r",
@@ -22,11 +26,20 @@ for embedding_file in embeddings_folder.glob("*.json"):
 
         for chunk in chunks:
 
-            all_chunks.append(chunk)
+            all_chunks.append(
+                chunk
+            )
 
             all_embeddings.append(
                 chunk["embedding"]
             )
+
+
+if not all_embeddings:
+
+    raise ValueError(
+        "No embeddings found!"
+    )
 
 
 embeddings_array = np.array(
@@ -35,11 +48,28 @@ embeddings_array = np.array(
 )
 
 
+print(
+    f"Loaded {len(all_embeddings)} embeddings"
+)
+
+print(
+    f"Shape: {embeddings_array.shape}"
+)
+
+
 dimension = embeddings_array.shape[1]
 
-index = faiss.IndexFlatL2(
+
+# ----------------------------------
+# Cosine Similarity Search
+# Works because embeddings were
+# normalized during generation
+# ----------------------------------
+
+index = faiss.IndexFlatIP(
     dimension
 )
+
 
 index.add(
     embeddings_array

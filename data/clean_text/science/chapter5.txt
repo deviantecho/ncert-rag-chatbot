@@ -1,8 +1,6 @@
-Life Processes
-5
 CHAPTER
-H
-ow do we tell the difference between what is alive and what is not
+Life Processes
+How do we tell the difference between what is alive and what is not
 alive? If we see a dog running, or a cow chewing cud, or a man
 shouting loudly on the street, we know that these are living beings. What
 if the dog or the cow or the man were asleep? We would still think that
@@ -32,14 +30,10 @@ Since all these structures are made up of molecules, they must move
 molecules around all the time.
 What are the maintenance processes in living organisms?
 Let us explore.
-5.1 WHA
-5.1 WHAT ARE LIFE PROCESSES?
-T ARE LIFE PROCESSES?
+5.1 WHAT ARE LIFE PROCESES?????
 The maintenance functions of living organisms must go on even when
 they are not doing anything particular. Even when we are just sitting in
 
-Science
-80
 class, even if we are just asleep, this maintenance job has to go on.
 The processes which together perform this maintenance job are
 life processes.
@@ -89,32 +83,18 @@ for the cells of the body, but could even be harmful. These waste by-
 products are therefore needed to be removed from the body and discarded
 outside by a process called excretion. Again, if the basic rules for body
 
-Life Processes
-81
 design in multi-cellular organisms are followed, a specialised tissue for
 excretion will be developed, which means that the transportation system
 will need to transport waste away from cells to this excretory tissue.
 Let us consider these various processes, so essential to maintain
 life, one by one.
-Q
-U
-E
-S
-T
-I
-O
-N
-S
+QU ES TI ON S
 ?
-1.
-Why is diffusion insufficient to meet the oxygen requirements of multi-
+1. Why is diffusion insufficient to meet the oxygen requirements of multi-
 cellular organisms like humans?
-2.
-What criteria do we use to decide whether something is alive?
-3.
-What are outside raw materials used for by an organism?
-4.
-What processes would you consider essential for maintaining life?
+2. What criteria do we use to decide whether something is alive?
+3. What are outside raw materials used for by an organism?
+4. What processes would you consider essential for maintaining life?
 5.2 NUTRITION
 When we walk or ride a bicycle, we are using up energy. Even when we
 are not doing any apparent activity, energy is needed to maintain a
@@ -146,64 +126,8 @@ by the plant. A somewhat similar situation is seen in us where some of
 the energy derived from the food we eat is stored in our body in the form
 of glycogen.
 
-Science
-82
 Let us now see what actually happens during the process of
 photosynthesis. The following events occur during this process –
-Figure 5.2
-Variegated leaf (a) before
-and (b) after starch test
-Figure 5.1
-Cross-section of a leaf
-Activity 5.1
-n Take a potted plant with variegated leaves – for example, money plant
-or crotons.
-n Keep the plant in a dark room for three days so that all the starch
-gets used up.
-n Now keep the plant in sunlight for about six hours.
-n Pluck a leaf from the plant. Mark the green areas in it and trace them
-on a sheet of paper.
-n Dip the leaf in boiling water for a few minutes.
-n After this, immerse it in a beaker containing alcohol.
-n Carefully place the above beaker in a water-bath and heat till the
-alcohol begins to boil.
-n What happens to the colour of the leaf? What is the colour of the
-solution?
-n Now dip the leaf in a dilute solution of iodine for a few minutes.
-n Take out the leaf and rinse off the iodine solution.
-n Observe the colour of the leaf and compare this with the tracing of
-the leaf done in the beginning (Fig. 5.2).
-n What can you conclude about the presence of starch in various areas
-of the leaf?
-(i)
-Absorption of light energy by
-chlorophyll.
-(ii)
-Conversion of light energy to chemical
-energy and splitting of water molecules
-into hydrogen and oxygen.
-(iii)
-Reduction of carbon dioxide to
-carbohydrates.
-These steps need not take place one after
-the other immediately. For example, desert
-plants take up carbon dioxide at night and
-prepare an intermediate which is acted upon
-by the energy absorbed by the chlorophyll
-during the day.
-Let us see how each of the components of
-the above reaction are necessary for
-photosynthesis.
-If you carefully observe a cross-section of a
-leaf under the microscope (shown in Fig. 5.1),
-you will notice that some cells contain green
-dots. These green dots are cell organelles called
-chloroplasts which contain chlorophyll. Let us
-do an activity which demonstrates that
-chlorophyll is essential for photosynthesis.
-
-Life Processes
-83
 Now, let us study how the plant
 obtains carbon dioxide. In Class IX,
 we had talked about stomata (Fig. 5.3)
@@ -216,45 +140,35 @@ important to note here that exchange
 of gases occurs across the surface of
 stems, roots and leaves as well. Since
 large amounts of water can also be lost
-through these stomata, the plant
+through these stomata, the plant Figure 5.3 (a) Open and (b) closed stomatal pore
 closes these pores when it does not
 need carbon dioxide for photosynthesis. The opening and closing of the
 pore is a function of the guard cells. The guard cells swell when water
 flows into them, causing the stomatal pore to open. Similarly the pore
 closes if the guard cells shrink.
-n
-Take two healthy potted plants
+Activity 5.2
+n Take two healthy potted plants
 which are nearly the same size.
-n
-Keep them in a dark room for
+n Keep them in a dark room for
 three days.
-n
-Now place each plant on
+n Now place each plant on
 separate glass plates. Place a
 watch-glass containing potassium
 hydroxide by the side of one of
 the plants. The potassium
 hydroxide is used to absorb
 carbon dioxide.
-n
-Cover both plants with separate
+n Cover both plants with separate
+(a) (b)
 bell-jars as shown in Fig. 5.4.
-n
-Use vaseline to seal the bottom
-of the jars to the glass plates so
+n Use vaseline to seal the bottom Figure 5.4 Experimental set-up (a) with potassium
+of the jars to the glass plates so hydroxide (b) without potassium hydroxide
 that the set-up is air-tight.
-n
-Keep the plants in sunlight for
+n Keep the plants in sunlight for
 about two hours.
-n
-Pluck a leaf from each plant and check for the presence of starch as in the above activity.
-n
-Do both the leaves show the presence of the same amount of starch?
-n
-What can you conclude from this activity?
-Figure 5.3
-Figure 5.3 (a) Open and (b) closed stomatal pore
-Activity 5.2
+n Pluck a leaf from each plant and check for the presence of starch as in the above activity.
+n Do both the leaves show the presence of the same amount of starch?
+n What can you conclude from this activity?
 Based on the two activities performed above, can we design an
 experiment to demonstrate that sunlight is essential for photosynthesis?
 So far, we have talked about how autotrophs meet their energy
@@ -263,13 +177,7 @@ body. Water used in photosynthesis is taken up from the soil by the
 roots in terrestrial plants. Other materials like nitrogen, phosphorus,
 iron and magnesium are taken up from the soil. Nitrogen is an essential
 element used in the synthesis of proteins and other compounds. This is
-Figure 5.4 Experimental set-up (a) with potassium
-hydroxide (b) without potassium hydroxide
-(a)
-(b)
 
-Science
-84
 taken up in the form of inorganic nitrates or nitrites. Or it is taken up as
 organic compounds which have been prepared by bacteria from
 atmospheric nitrogen.
@@ -304,32 +212,23 @@ Paramoecium, which is also a unicellular organism, the cell has a
 definite shape and food is taken in at a specific spot. Food is moved
 to this spot by the movement of cilia which cover the entire surface
 of the cell.
-5.2.4 Nutrition in Human Beings
+Figure 5.5 5.2.4 Nutrition in Human Beings
+Nutrition in Amoeba
 The alimentary canal is basically a long tube extending from the mouth
 to the anus. In Fig. 5.6, we can see that the tube has different parts.
 Various regions are specialised to perform different functions. What
 happens to the food once it enters our body? We shall discuss this
 process here.
-Figure 5.5
-Nutrition in Amoeba
 
-Life Processes
-85
 Activity 5.3
-n
-Take 1 mL starch solution (1%) in two test tubes (A and B).
-n
-Add 1 mL saliva to test tube A and leave both test tubes undisturbed
+n Take 1 mL starch solution (1%) in two test tubes (A and B).
+n Add 1 mL saliva to test tube A and leave both test tubes undisturbed
 for 20-30 minutes.
-n
-Now add a few drops of dilute iodine solution to the test tubes.
-n
-In which test tube do you observe a colour change?
-n
-What does this indicate about the presence or absence of starch
+n Now add a few drops of dilute iodine solution to the test tubes.
+n In which test tube do you observe a colour change?
+n What does this indicate about the presence or absence of starch
 in the two test tubes?
-n
-What does this tell us about the action of saliva on starch?
+n What does this tell us about the action of saliva on starch?
 We eat various types of food which has to pass through the same
 digestive tract. Naturally the food has to be processed to generate
 particles which are small and of the same texture. This is achieved by
@@ -361,6 +260,7 @@ or oesophagus. The stomach is a large
 organ which expands when food
 enters it. The muscular walls of the
 stomach help in mixing the food
+Figure 5.6 Human alimentary canal
 thoroughly with more digestive juices.
 The digestion in stomach is taken
 care of by the gastric glands present in the wall of the stomach. These
@@ -369,11 +269,7 @@ and mucus. The hydrochloric acid creates an acidic medium which
 facilitates the action of the enzyme pepsin. What other function do you
 think is served by the acid? The mucus protects the inner lining of the
 stomach from the action of the acid under normal conditions. We
-Figure 5.6
-Figure 5.6 Human alimentary canal
 
-Science
-86
 have often heard adults complaining about ‘acidity’. Can this be related
 to what has been discussed above?
 The exit of food from the stomach is regulated by a sphincter muscle
@@ -409,7 +305,9 @@ The unabsorbed food is sent into the large intestine where its wall
 absorb more water from this material. The rest of the material is removed
 from the body via the anus. The exit of this waste material is regulated
 by the anal sphincter.
-More to Know!
+!wonK
+ot
+eroM
 Dental caries
 Dental caries or tooth decay causes gradual softening of enamel and dentine. It begins
 when bacteria acting on sugars produce acids that softens or demineralises the enamel.
@@ -419,74 +317,43 @@ the teeth. Brushing the teeth after eating removes the plaque before the bacteri
 produce acids. If untreated, microorganisms may invade the pulp, causing
 inflammation and infection.
 
-Life Processes
-87
-5.3 RESPIR
+QU ES TI ON S
+1. What are the differences between autotrophic nutrition and heterotrophic
+nutrition? ?
+2. Where do plants get each of the raw materials required for photosynthesis?
+3. What is the role of the acid in our stomach?
+4. What is the function of digestive enzymes?
+5. How is the small intestine designed to absorb digested food?
 5.3 RESPIRATION
-TION
-Activity 5.4
-n
-Take some freshly prepared lime
-water in a test tube.
-n
-Blow air through this lime water.
-n
-Note how long it takes for the lime
-water to turn milky.
-n
-Use a syringe or pichkari to pass air
-through some fresh lime water
-taken in another test tube (Fig. 5.7).
-n
-Note how long it takes for this lime
-water to turn milky.
-n
-What does this tell us about the
-amount of carbon dioxide in the air
-that we breathe out?
-1.
-What are the differences between autotrophic nutrition and heterotrophic
-nutrition?
-2.
-Where do plants get each of the raw materials required for photosynthesis?
-3.
-What is the role of the acid in our stomach?
-4.
-What is the function of digestive enzymes?
-5.
-How is the small intestine designed to absorb digested food?
-Tube
-Test tube containing
-lime water
-Lime
-water
-Rubber
-tube
-(a)
-(b)
 Pichkari
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-?
+Activity 5.4
+n Take some freshly prepared lime
+water in a test tube.
+Rubber Tube
+n Blow air through this lime water. tube
+n Note how long it takes for the lime
+water to turn milky.
+n Use a syringe or pichkari to pass air Test tube containing
+Lime lime water
+through some fresh lime water
+water
+taken in another test tube (Fig. 5.7).
+n Note how long it takes for this lime
+(a) (b)
+water to turn milky.
+n What does this tell us about the
+Figure 5.7
+amount of carbon dioxide in the air
+(a) Air being passed into lime water with a pichkari/
+that we breathe out? syringe, (b) air being exhaled into lime water
 Activity 5.5
-n
-Take some fruit juice or sugar solution and add some yeast to
+n Take some fruit juice or sugar solution and add some yeast to
 this. Take this mixture in a test tube fitted with a one-holed cork.
-n
-Fit the cork with a bent glass tube. Dip the free end of the glass
+n Fit the cork with a bent glass tube. Dip the free end of the glass
 tube into a test tube containing freshly prepared lime water.
-n
-What change is observed in the lime water and how long does it
+n What change is observed in the lime water and how long does it
 take for this change to occur?
-n
-What does this tell us about the products of fermentation?
+n What does this tell us about the products of fermentation?
 We have discussed nutrition in organisms in the last section. The
 food material taken in during the process of nutrition is used in cells to
 provide energy for various life processes. Diverse organisms do this in
@@ -499,12 +366,7 @@ pyruvate may be converted into ethanol and carbon dioxide. This process
 takes place in yeast during fermentation. Since this process takes place
 in the absence of air (oxygen), it is called anaerobic respiration. Break-
 down of pyruvate using oxygen takes place in the mitochondria. This
-Figure 5.7
-(a) Air being passed into lime water with a pichkari/
-syringe, (b) air being exhaled into lime water
 
-Science
-88
 process breaks up the three-carbon pyruvate molecule to give three
 molecules of carbon dioxide. The other product is water. Since this
 process takes place in the presence of air (oxygen), it is called aerobic
@@ -514,7 +376,6 @@ in our muscle cells, another pathway for the break-down of pyruvate is
 taken. Here the pyruvate is converted into lactic acid which is also a
 three-carbon molecule. This build-up of lactic acid in our muscles during
 sudden activity causes cramps.
-Figure 5.8
 Figure 5.8 Break-down of glucose by various pathways
 The energy released during cellular respiration is immediately used
 to synthesise a molecule called ATP which is used to fuel all other
@@ -537,16 +398,16 @@ organisms need to ensure that there is sufficient intake of oxygen. We
 have seen that plants exchange gases through stomata, and the large
 inter-cellular spaces ensure that all cells are in contact with air. Carbon
 dioxide and oxygen are exchanged by diffusion here. They can go into
-More to Know!
+!wonK
+ot
+eroM
 
-Life Processes
-89
 cells, or away from them and out into the air. The direction of diffusion
 depends upon the environmental conditions and the requirements of
-the plant. At night, when there is no photosynthesis occurring, CO2
+the plant. At night, when there is no photosynthesis occurring, CO
 elimination is the major exchange activity going on. During the day,
-CO2 generated during respiration is used up for photosynthesis, hence
-there is no CO2 release. Instead, oxygen release is the major event at
+CO generated during respiration is used up for photosynthesis, hence
+there is no CO release. Instead, oxygen release is the major event at
 this time.
 Animals have evolved different organs for the uptake of oxygen
 from the environment and for getting rid of the carbon dioxide
@@ -554,174 +415,123 @@ produced. Terrestrial animals can breathe the oxygen in the
 atmosphere, but animals that live in water need to use the oxygen
 dissolved in water.
 Activity 5.6
-n
-Observe fish in an aquarium. They open and close their mouths
+n Observe fish in an aquarium. They open and close their mouths
 and the gill-slits (or the operculum which covers the gill-slits)
 behind their eyes also open and close. Are the timings of the
 opening and closing of the mouth and gill-slits coordinated in some
 manner?
-n
-Count the number of times the fish opens and closes its mouth in
+n Count the number of times the fish opens and closes its mouth in
 a minute.
-n
-Compare this to the number of times you breathe in and out in a
+n Compare this to the number of times you breathe in and out in a
 minute.
 Since the amount of dissolved oxygen is fairly low compared
 to the amount of oxygen in the air, the rate of breathing in aquatic
 organisms is much faster than that seen in terrestrial organisms.
-Fishes take in water through their mouths and force it past the
+Fishes take in water through their mouths and force it past the More to Know!
 gills where the dissolved oxygen is taken up by blood.
-Terrestrial organisms use the oxygen in the atmosphere for
-respiration. This oxygen is absorbed by different organs in
-different animals. All these organs have a structure that increases
-the surface area which is in contact with the oxygen-rich
-atmosphere. Since the exchange of oxygen and carbon dioxide
-has to take place across this surface, this surface is very fine
-and delicate. In order to protect this surface, it is usually placed
-within the body, so there have to be passages that will take air
-to this area. In addition, there is a mechanism for moving the air
-in and out of this area where the oxygen is absorbed.
-In human beings (Fig. 5.9), air is taken into the body through
-the nostrils. The air passing through the nostrils is filtered by
-fine hairs that line the passage. The passage is also lined with
-mucus which helps in this process. From here, the air passes
-through the throat and into the lungs. Rings of cartilage are
-present in the throat. These ensure that the air-passage does
-not collapse.
 Using tobacco directly or
+Terrestrial organisms use the oxygen in the atmosphere for
 any product of tobacco in
+respiration. This oxygen is absorbed by different organs in
 the form of cigar, cigarettes,
-bidis, hookah, gutkha, etc.,
-is harmful. Use of tobacco
-most commonly affects the
-tongue, lungs, heart and
-liver. Smokeless tobacco is
-also a major risk factor for
-heart attacks, strokes,
+different animals. All these organs have a structure that increases bidis, hookah, gutkha, etc.,
+the surface area which is in contact with the oxygen-rich is harmful. Use of tobacco
+atmosphere. Since the exchange of oxygen and carbon dioxide most commonly affects the
+has to take place across this surface, this surface is very fine tongue, lungs, heart and
+and delicate. In order to protect this surface, it is usually placed liver. Smokeless tobacco is
+within the body, so there have to be passages that will take air also a major risk factor for
+to this area. In addition, there is a mechanism for moving the air heart attacks, strokes,
 pulmonary diseases and
+in and out of this area where the oxygen is absorbed.
 several forms of cancers.
+In human beings (Fig. 5.9), air is taken into the body through
 There is a high incidence of
+the nostrils. The air passing through the nostrils is filtered by
 oral cancer in India due to
+fine hairs that line the passage. The passage is also lined with
 the chewing of tobacco in
+mucus which helps in this process. From here, the air passes
 the form of gutkha. Stay
+through the throat and into the lungs. Rings of cartilage are
 healthy; just say NO to
+present in the throat. These ensure that the air-passage does
 tobacco and its products!
-More to Know!
+not collapse.
 
-Science
-90
+Figure 5.9 Human respiratory system
 Within the lungs, the passage divides into smaller and smaller
 tubes which finally terminate in balloon-like structures which
+Do You Know?
 are called alveoli (singular–alveolus). The alveoli provide a surface
+Smoking is injurious to
 where the exchange of gases can take place. The walls of the alveoli
+health.
 contain an extensive network of blood-vessels. As we have seen
+Lung cancer is one of
 in earlier years, when we breathe in, we lift our ribs and flatten
+common causes of
 our diaphragm, and the chest cavity becomes larger as a result.
+deaths in the world. The
 Because of this, air is sucked into the lungs and fills the expanded
+upper part of respiratory
 alveoli. The blood brings carbon dioxide from the rest of the body
-for release into the alveoli, and the oxygen in the alveolar air is
-taken up by blood in the alveolar blood vessels to be transported
-to all the cells in the body. During the breathing cycle, when air is
+tract is provided with
+small hair-like for release into the alveoli, and the oxygen in the alveolar air is
+structures called cilia. taken up by blood in the alveolar blood vessels to be transported
+These cilia help to to all the cells in the body. During the breathing cycle, when air is
+remove germs, dust and
 taken in and let out, the lungs always contain a residual volume
+other harmful particles
 of air so that there is sufficient time for oxygen to be absorbed
+from inhaled air.
 and for the carbon dioxide to be released.
-When the body size of animals is large, the diffusion pressure
-alone cannot take care of oxygen delivery to all parts of the body.
-Instead, respiratory pigments take up oxygen from the air in the
+Smoking destroys these
+hair due to which germs, When the body size of animals is large, the diffusion pressure
+dust, smoke and other alone cannot take care of oxygen delivery to all parts of the body.
+harmful chemicals enter Instead, respiratory pigments take up oxygen from the air in the
+lungs and cause
 lungs and carry it to tissues which are deficient in oxygen before
+infection, cough and
 releasing it. In human beings, the respiratory pigment is
+even lung cancer.
 haemoglobin which has a very high affinity for oxygen. This pigment
 is present in the red blood corpuscles. Carbon dioxide is more
 soluble in water than oxygen is and hence is mostly transported in
 the dissolved form in our blood.
-Figure 5.9
-Figure 5.9 Human respiratory system
-Do You Know?
-Smoking is injurious to
-health.
-Lung cancer is one of
-common causes of
-deaths in the world. The
-upper part of respiratory
-tract is provided with
-small
-hair-like
-structures called cilia.
-These cilia help to
-remove germs, dust and
-other harmful particles
-from
-inhaled
-air.
-Smoking destroys these
-hair due to which germs,
-dust, smoke and other
-harmful chemicals enter
-lungs
-and
-cause
-infection, cough and
-even lung cancer.
 
-Life Processes
-91
-5.4 TR
-5.4 TRANSPORT
-ANSPORT
-ANSPORTATION
-TION
+5.4 TRANSPORTATION
 5.4.1 Transportation in Human Beings
-Do You Know?
-n
-If the alveolar surface were spread out, it would cover about 80 m2. How much
+?wonK
+uoY
+oD
+n If the alveolar surface were spread out, it would cover about 80 m2. How much
 do you think the surface area of your body is? Consider how efficient exchange
 of gases becomes because of the large surface available for the exchange to take
 place.
-n
-If diffusion were to move oxygen in our body, it is estimated that it would take 3
+n If diffusion were to move oxygen in our body, it is estimated that it would take 3
 years for a molecule of oxygen to get to our toes from our lungs. Aren’t you glad
 that we have haemoglobin?
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-?
-1.
-What advantage over an aquatic organism does a terrestrial organism
+QU ES TI ON S
+1. What advantage over an aquatic organism does a terrestrial organism ?
 have with regard to obtaining oxygen for respiration?
-2.
-What are the different ways in which glucose is oxidised to provide
+2. What are the different ways in which glucose is oxidised to provide
 energy in various organisms?
-3.
-How is oxygen and carbon dioxide transported in human beings?
-4.
-How are the lungs designed in human beings to maximise the area for
+3. How is oxygen and carbon dioxide transported in human beings?
+4. How are the lungs designed in human beings to maximise the area for
 exchange of gases?
 Activity 5.7
-n
-Visit a health centre in your locality and find out what is the
+n Visit a health centre in your locality and find out what is the
 normal range of haemoglobin content in human beings.
-n
-Is it the same for children and adults?
-n
-Is there any difference in the haemoglobin levels for men and
+n Is it the same for children and adults?
+n Is there any difference in the haemoglobin levels for men and
 women?
-n
-Visit a veterinary clinic in your locality. Find out what is the normal
+n Visit a veterinary clinic in your locality. Find out what is the normal
 range of haemoglobin content in an animal like the buffalo
 or cow.
-n
-Is this content different in calves, male and female animals?
-n
-Compare the difference seen in male and female human beings
+n Is this content different in calves, male and female animals?
+n Compare the difference seen in male and female human beings
 and animals.
-n
-How would the difference, if any, be explained?
+n How would the difference, if any, be explained?
 We have seen in previous sections that blood transports food, oxygen
 and waste materials in our bodies. In Class IX, we learnt about blood
 being a fluid connective tissue. Blood consists of a fluid medium called
@@ -732,8 +542,7 @@ transported by the blood. We thus need a pumping organ to push blood
 around the body, a network of tubes to reach all the tissues and a system
 in place to ensure that this network can be repaired if damaged.
 
-Science
-92
+Our pump — the heart
 The heart is a muscular organ which is
 as big as our fist (Fig. 5.10). Because
 both oxygen and carbon dioxide have to
@@ -750,8 +559,10 @@ pumped to the rest of the body.
 We can follow this process step by
 step (Fig. 5.11). Oxygen-rich blood from
 the lungs comes to the thin-walled upper
+Figure 5.100000
 chamber of the heart on the left, the left atrium. The left atrium relaxes
-when it is collecting this blood. It then contracts, while the next chamber,
+Schematic sectional
+view of the human heart when it is collecting this blood. It then contracts, while the next chamber,
 the left ventricle, relaxes, so that the blood is transferred to it. When the
 muscular left ventricle contracts in its turn, the blood is pumped out to
 the body. De-oxygenated blood comes from the body to the upper
@@ -777,33 +588,26 @@ three-chambered hearts, and tolerate some mixing
 of the oxygenated and de-oxygenated blood
 streams. Fishes, on the other hand, have only two
 chambers to their hearts, and the blood is pumped
-to the gills, is oxygenated there, and passes directly
-to the rest of the body. Thus, blood goes only once
-through the heart in the fish during one cycle of
+Figure 5.111111 to the gills, is oxygenated there, and passes directly
+Schematic representation of transport and exchange to the rest of the body. Thus, blood goes only once
+of oxygen and carbon dioxide through the heart in the fish during one cycle of
 passage through the body. On the other hand, it goes through the heart
 twice during each cycle in other vertebrates. This is known as double
 circulation.
-Our pump — the heart
-Figure 5.10
-Schematic sectional
-view of the human heart
-Figure 5.11
-Schematic representation of transport and exchange
-of oxygen and carbon dioxide
 
-Life Processes
-93
-More to Know!
-Blood pressure is measured with an instrument called sphygmomanometer. High
-blood pressure is also called hypertension and is caused by the constriction of
-arterioles, which results in increased resistance to blood flow. It can lead to the rupture
-of an artery and internal bleeding.
+!wonK
+ot
+eroM
 Blood pressure
 The force that blood exerts against the wall of a vessel is called blood pressure. This
 pressure is much greater in arteries than in veins. The pressure of blood inside the
 artery during ventricular systole (contraction) is called systolic pressure and pressure
 in artery during ventricular diastole (relaxation) is called diastolic pressure. The normal
 systolic pressure is about 120 mm of Hg and diastolic pressure is 80 mm of Hg.
+Blood pressure is measured with an instrument called sphygmomanometer. High
+blood pressure is also called hypertension and is caused by the constriction of
+arterioles, which results in increased resistance to blood flow. It can lead to the rupture
+of an artery and internal bleeding.
 The tubes – blood vessels
 Arteries are the vessels which carry blood away from the heart to various
 organs of the body. Since the blood emerges from the heart under high
@@ -823,8 +627,6 @@ situations when we are injured and start bleeding. Naturally the loss of
 blood from the system has to be minimised. In addition, leakage would
 lead to a loss of pressure which would reduce the efficiency of the
 
-Science
-94
 pumping system. To avoid this, the blood has platelet cells which circulate
 around the body and plug these leaks by helping to clot the blood at
 these points of injury.
@@ -840,7 +642,7 @@ Lymph carries digested and absorbed fat from intestine and drains excess
 fluid from extra cellular space back into the blood.
 5.4.2 Transportation in Plants
 We have discussed earlier how plants take in simple compounds such
-as CO2 and photosynthesise energy stored in their chlorophyll-containing
+as CO and photosynthesise energy stored in their chlorophyll-containing
 organs, namely leaves. The other kinds of raw materials needed for
 building plant bodies will also have to be taken up separately. For plants,
 the soil is the nearest and richest source of raw materials like nitrogen,
@@ -872,8 +674,6 @@ channels reaching all parts of the plant. At the roots, cells in contact
 with the soil actively take up ions. This creates a difference in the
 concentration of these ions between the root and the soil. Water, therefore,
 
-Life Processes
-95
 moves into the root from the soil to eliminate this difference. This means
 that there is steady movement of water into root xylem, creating a column
 of water that is steadily pushed upwards.
@@ -882,18 +682,14 @@ water over the heights that we commonly see in plants. Plants use another
 strategy to move water in the xylem upwards to the highest points of the
 plant body.
 Activity 5.8
-n
-Take two small pots of approximately the same size and having
+n Take two small pots of approximately the same size and having
 the same amount of soil. One should have a plant in it. Place a
 stick of the same height as the plant in the other pot.
-n
-Cover the soil in both pots with a plastic sheet so that moisture
+n Cover the soil in both pots with a plastic sheet so that moisture
 cannot escape by evaporation.
-n
-Cover both sets, one with the plant and the other with the stick,
+n Cover both sets, one with the plant and the other with the stick,
 with plastic sheets and place in bright sunlight for half an hour.
-n
-Do you observe any difference in the two cases?
+n Do you observe any difference in the two cases?
 Provided that the plant has an adequate
 supply of water, the water which is lost through the
 stomata is replaced by water from the xylem vessels
@@ -909,7 +705,8 @@ temperature regulation. The effect of root pressure in
 transport of water is more important at night. During
 the day when the stomata are open, the transpiration
 pull becomes the major driving force in the movement
-of water in the xylem.
+Figure 5.122222
+of water in the xylem. Movement of water during transpiration in a tree
 Transport of food and other substances
 So far we have discussed the transport of water and minerals in plants.
 Now let us consider how the products of metabolic processes, particularly
@@ -924,11 +721,7 @@ place in the sieve tubes with the help of adjacent companion cells both
 in upward and downward directions.
 Unlike transport in xylem which can be largely explained by simple
 physical forces, the translocation in phloem is achieved by utilising
-Figure 5.12
-Movement of water during transpiration in a tree
 
-Science
-96
 energy. Material like sucrose is transferred into phloem tissue using
 energy from ATP. This increases the osmotic pressure of the tissue
 causing water to move into it. This pressure moves the material in the
@@ -936,32 +729,16 @@ phloem to tissues which have less pressure. This allows the phloem to
 move material according to the plant’s needs. For example, in the spring,
 sugar stored in root or stem tissue would be transported to the buds
 which need energy to grow.
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-?
-1.
-What are the components of the transport system in human beings?
+QU ES TI ON S
+1. What are the components of the transport system in human beings? ?
 What are the functions of these components?
-2.
-Why is it necessary to separate oxygenated and deoxygenated blood in
+2. Why is it necessary to separate oxygenated and deoxygenated blood in
 mammals and birds?
-3.
-What are the components of the transport system in highly organised
+3. What are the components of the transport system in highly organised
 plants?
-4.
-How are water and minerals transported in plants?
-5.
-How is food transported in plants?
-5.5 EX
+4. How are water and minerals transported in plants?
+5. How is food transported in plants?
 5.5 EXCRETION
-CRETION
 We have already discussed how organisms get rid of gaseous wastes
 generated during photosynthesis or respiration. Other metabolic activities
 generate nitrogenous materials which need to be removed. The biological
@@ -982,15 +759,12 @@ into the urinary bladder where it is stored until it is
 released through the urethra.
 How is urine produced? The purpose of making
 urine is to filter out waste products from the blood.
-Just as CO2 is removed from the blood in the lungs,
+Just as CO is removed from the blood in the lungs,
 nitrogenous waste such as urea or uric acid are
-removed from blood in the kidneys. It is then no
-surprise that the basic filtration unit in the kidneys,
-Figure 5.13
+Figure 5.13 removed from blood in the kidneys. It is then no
 Excretory system in human beings
+surprise that the basic filtration unit in the kidneys,
 
-Life Processes
-97
 like in the lungs, is a cluster of very thin-walled blood
 capillaries. Each capillary cluster in the kidney is
 associated with the cup-shaped end of a coiled tube
@@ -1010,7 +784,11 @@ of the expanded bladder leads to the urge to pass it out
 through the urethra. The bladder is muscular, so it is
 under nervous control, as we have discussed elsewhere.
 As a result, we can usually control the urge to urinate.
-More to Know!
+!wonK
+ot
+eroM
+Figure 5.144444
+Structure of a nephron
 Artificial kidney (Hemodialysis)
 Kidneys are vital organs for survival. Several factors like infections, injury or restricted
 blood flow to kidneys reduce the activity of kidneys. This leads to accumulation of
@@ -1037,172 +815,103 @@ However, the volume actually
 excreted is only a litre or two a day,
 because the remaining filtrate is re-
 absorbed in the kidney tubules.
-Figure 5.14
-Structure of a nephron
 
-Science
-98
 5.5.2 Excretion in Plants
+Think it over!
 Plants use completely different
+Organ donation
 strategies for excretion than those
+Organ donation is a generous act of donating an
 of animals. Oxygen itself can be
+organ to a person who suffers from non-function of
 thought of as a waste product
+organ(s). Donation of an organ may be done by the
 generated during photosynthesis!
+consent of the donor and his/her family. Anyone
 We have discussed earlier how
+regardless of age or gender can become an organ
 plants deal with oxygen as well as
-CO2. They can get rid of excess water
+and tissue donor. Organ transplants can save or
+CO . They can get rid of excess water
+transform the life of a person. Transplantation is 2
 by transpiration. For other wastes,
+required because recipient’s organ has been
 plants use the fact that many of
+damaged or has failed by disease or injury. In organ
 their tissues consist of dead cells,
+transplantation the organ is surgically removed
 and that they can even lose some
+from one person (organ donor) and transplanted to
 parts such as leaves. Many plant
+another person (the recipient). Common
 waste products are stored in
+transplantations include corneas, kidneys, heart,
 cellular vacuoles. Waste products
+liver, pancreas, lungs, intestines and bone marrow.
 may be stored in leaves that fall off.
+Most organ and tissue donations occur just after
 Other waste products are stored as
+the donor has died or when the doctor declares a
 resins and gums, especially in old
+person brain dead. But some organs such as
 xylem. Plants also excrete some
+kidney, part of a liver, lung, etc., and tissues can be
 waste substances into the soil
+donated while the donor is alive.
 around them.
+QU ES TI ON S
+?
+1. Describe the structure and functioning of nephrons.
+2. What are the methods used by plants to get rid of excretory products?
+3. How is the amount of urine produced regulated?
 What you have learnt
-n
-Movement of various types can be taken as an indication of life.
-n
-Maintenance of life requires processes like nutrition, respiration, transport of
+n Movement of various types can be taken as an indication of life.
+n Maintenance of life requires processes like nutrition, respiration, transport of
 materials within the body and excretion of waste products.
-n
-Autotrophic nutrition involves the intake of simple inorganic materials from the
+n Autotrophic nutrition involves the intake of simple inorganic materials from the
 environment and using an external energy source like the Sun to synthesise complex
 high-energy organic material.
-n
-Heterotrophic nutrition involves the intake of complex material prepared by other
+n Heterotrophic nutrition involves the intake of complex material prepared by other
 organisms.
-n
-In human beings, the food eaten is broken down by various steps along the
+n In human beings, the food eaten is broken down by various steps along the
 alimentary canal and the digested food is absorbed in the small intestine to be sent
 to all cells in the body.
-Think it over!
-Organ donation
-Organ donation is a generous act of donating an
-organ to a person who suffers from non-function of
-organ(s). Donation of an organ may be done by the
-consent of the donor and his/her family. Anyone
-regardless of age or gender can become an organ
-and tissue donor. Organ transplants can save or
-transform the life of a person. Transplantation is
-required because recipient’s organ has been
-damaged or has failed by disease or injury. In organ
-transplantation the organ is surgically removed
-from one person (organ donor) and transplanted to
-another person (the recipient). Common
-transplantations include corneas, kidneys, heart,
-liver, pancreas, lungs, intestines and bone marrow.
-Most organ and tissue donations occur just after
-the donor has died or when the doctor declares a
-person brain dead. But some organs such as
-kidney, part of a liver, lung, etc., and tissues can be
-donated while the donor is alive.
-?
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-1.
-Describe the structure and functioning of nephrons.
-2.
-What are the methods used by plants to get rid of excretory products?
-3.
-How is the amount of urine produced regulated?
 
-Life Processes
-99
-n
-During the process of respiration, organic compounds such as glucose are broken
+n During the process of respiration, organic compounds such as glucose are broken
 down to provide energy in the form of ATP. ATP is used to provide energy for other
 reactions in the cell.
-n
-Respiration may be aerobic or anaerobic. Aerobic respiration makes more energy
+n Respiration may be aerobic or anaerobic. Aerobic respiration makes more energy
 available to the organism.
-n
-In human beings, the transport of materials such as oxygen, carbon dioxide, food
+n In human beings, the transport of materials such as oxygen, carbon dioxide, food
 and excretory products is a function of the circulatory system. The circulatory
 system consists of the heart, blood and blood vessels.
-n
-In highly differentiated plants, transport of water, minerals, food and other materials
+n In highly differentiated plants, transport of water, minerals, food and other materials
 is a function of the vascular tissue which consists of xylem and phloem.
-n
-In human beings, excretory products in the form of soluble nitrogen compounds
+n In human beings, excretory products in the form of soluble nitrogen compounds
 are removed by the nephrons in the kidneys.
-n
-Plants use a variety of techniques to get rid of waste material. For example, waste
+n Plants use a variety of techniques to get rid of waste material. For example, waste
 material may be stored in the cell-vacuoles or as gum and resin, removed in the
 falling leaves, or excreted into the surrounding soil.
-E
-X
-E
-R
-C
-I
-S
-E
-S
-1.
-The kidneys in human beings are a part of the system for
-(a)
-nutrition.
-(c)
-excretion.
-(b)
-respiration.
-(d)
-transportation.
-2.
-The xylem in plants are responsible for
-(a)
-transport of water.
-(c)
-transport of amino acids.
-(b)
-transport of food.
-(d)
-transport of oxygen.
-3.
-The autotrophic mode of nutrition requires
-(a)
-carbon dioxide and water.
-(c)
-sunlight.
-(b)
-chlorophyll.
-(d)
-all of the above.
-4.
-The breakdown of pyruvate to give carbon dioxide, water and energy takes place in
-(a)
-cytoplasm.
-(c)
-chloroplast.
-(b)
-mitochondria.
-(d)
-nucleus.
-5.
-How are fats digested in our bodies? Where does this process take place?
-6.
-What is the role of saliva in the digestion of food?
-7.
-What are the necessary conditions for autotrophic nutrition and what are its by-
+EX ER CI SE S
+1. The kidneys in human beings are a part of the system for
+(a) nutrition. (c) excretion.
+(b) respiration. (d) transportation.
+2. The xylem in plants are responsible for
+(a) transport of water. (c) transport of amino acids.
+(b) transport of food. (d) transport of oxygen.
+3. The autotrophic mode of nutrition requires
+(a) carbon dioxide and water. (c) sunlight.
+(b) chlorophyll. (d) all of the above.
+4. The breakdown of pyruvate to give carbon dioxide, water and energy takes place in
+(a) cytoplasm. (c) chloroplast.
+(b) mitochondria. (d) nucleus.
+5. How are fats digested in our bodies? Where does this process take place?
+6. What is the role of saliva in the digestion of food?
+7. What are the necessary conditions for autotrophic nutrition and what are its by-
 products?
-8.
-What are the differences between aerobic and anaerobic respiration? Name some
+8. What are the differences between aerobic and anaerobic respiration? Name some
 organisms that use the anaerobic mode of respiration.
-9.
-How are the alveoli designed to maximise the exchange of gases?
+9. How are the alveoli designed to maximise the exchange of gases?
 10. What would be the consequences of a deficiency of haemoglobin in our bodies?
 11. Describe double circulation of blood in human beings. Why is it necessary?
 12. What are the differences between the transport of materials in xylem and phloem?

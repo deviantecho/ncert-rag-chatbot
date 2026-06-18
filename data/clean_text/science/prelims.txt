@@ -1,96 +1,64 @@
-SCIENCE
-TEXTBOOK FOR CLASS X
+SCIENCE TC XEXTBOOK FOR LASS
 
+1064 –S CIENCE ISBN81-7450-636-5
+Textbook for Class X
 First Edition
+ALL RIGHTS RESERVED
 December 2006 Agrahayana 1928
+q No part of this publication may be reproduced, stored in a retrieval system or
 Reprinted
-November 2007, January 2009,
-December 2009, November 2010,
+transmitted, in any form or by any means, electronic, mechanical, photocopying,
+November 2007, January 2009, recording or otherwise without the prior permission of the publisher.
+December 2009, November 2010, q This book is sold subject to the condition that it shall not, by way of trade, be lent,
+re-sold, hired out or otherwise disposed of without the publisher’s consent, in any
 January 2012, November 2012,
-October 2013, December 2014,
-December 2015, February 2017,
+form of binding or cover other than that in which it is published.
+October 2013, December 2014, q The correct price of this publication is the price printed on this page, Any revised
+December 2015, February 2017, price indicated by a rubber stamp or by a sticker or by any other means is incorrect
+and should be unacceptable.
 January 2018, January 2019,
 August 2019, January 2021 and
-November 2021
+OFFICES OF THE PUBLICATION DIVISION, NCERT
 Revised Edition
-October 2022, Kartika 1944
-Reprinted
-March 2024 Chaitra 1946
+NCERT Campus
+October 2022, Kartika 1944 Sri Aurobindo Marg
+New Delhi 110 016 Phone : 011-26562708
+Reprinted 108, 100 Feet Road
+Hosdakere Halli Extension
+March 2024 Chaitra 1946 Banashankari I Stage
+Bengaluru 560 085 Phone : 080-26725740
 June 2024 Jyeshtha 1946
 December 2024 Pausha 1946
-January 2026 Magha 1947
-PD 345T SM
-© National Council of Educational
-Research and Training, 2006, 2022
-` 160.00
-ALL RIGHTS RESERVED
-q No part of this publication may be reproduced, stored in a retrieval system or
-transmitted, in any form or by any means, electronic, mechanical, photocopying,
-recording or otherwise without the prior permission of the publisher.
-q This book is sold subject to the condition that it shall not, by way of trade, be lent,
-re-sold, hired out or otherwise disposed of without the publisher’s consent, in any
-form of binding or cover other than that in which it is published.
-q The correct price of this publication is the price printed on this page, Any revised
-price indicated by a rubber stamp or by a sticker or by any other means is incorrect
-and should be unacceptable.
-Publication Team
-Head, Publication
-:
-M.V. Srinivasan
-Division
-Chief Editor
-:
-Bijnan Sutar
-Chief Business
-:
-Amitabh Kumar
-Manager
-Chief Production
-:
-Deepak Jaiswal
-Officer (In charge)
-Production Officer
-:
-Sunil Sharma
-Cover, Layout and Illustrations
-Digital Expressions
-OFFICES OF THE PUBLICATION
-DIVISION, NCERT
-NCERT Campus
-Sri Aurobindo Marg
-New Delhi 110 016
-Phone : 011-26562708
-108, 100 Feet Road
-Hosdakere Halli Extension
-Banashankari III Stage
-Bengaluru 560 085
-Phone : 080-26725740
 Navjivan Trust Building
-P.O.Navjivan
-Ahmedabad 380 014
-Phone : 079-27541446
-CWC Campus
+January 2026 Magha 1947 P.O.Navjivan
+Ahmedabad 380 014 Phone : 079-27541446
+PD 345T SM CWC Campus
 Opp. Dhankal Bus Stop
 Panihati
-Kolkata 700 114
-Phone : 033-25530454
+© National Council of Educational Kolkata 700 114 Phone : 033-25530454
+Research and Training, 2006, 2022
 CWC Complex
 Maligaon
-Guwahati 781 021
-Phone : 0361-2674869
-ISBN 81-7450-636-5
-1064 – SCIENCE
-Textbook for Class X
-Printed on 80 GSM paper with NCERT
-watermark
-Published at the Publication Division by
+Guwahati 781 021 Phone : 0361-2674869
+Publication Team
+` 160.00
+Head, Publication : M.V. Srinivasan
+Division
+Chief Editor : Bijnan Sutar
+Chief Business : Amitabh Kumar
+Manager
+Printed on 80 GSM paper with NCERT Chief Production : Deepak Jaiswal
+watermark Officer (In charge)
+Published at the Publication Division by Production Officer : Sunil Sharma
 the Secretary, National Council of
-Educational Research and Training, Sri
+Educational Research and Training, Sri Cover, Layout and Illustrations
 Aurobindo Marg, New Delhi 110 016 and
+Digital Expressions
 printed at Laxmi Offset Printers, G- 114-115,
 Heerawala Industrial Area, Kanota, Agra
 Road, Jaipur
 
+FO RE WO RD
 The National Curriculum Framework, (NCF), 2005, recommends that children’s life at
 school must be linked to their life outside the school. This principle marks a departure
 from the legacy of bookish learning which continues to shape our system and causes
@@ -128,16 +96,7 @@ this committee. Several teachers contributed to the development of this textbook
 are grateful to them and their principals for making this possible. We are indebted to
 the institutions and organisations which have generously permitted us to draw upon
 their resources, material and personnel. We are especially grateful to the members of
-F
-O
-R
-E
-W
-O
-R
-D
 
-(iv)
 the National Monitoring Committee, appointed by the Department of Secondary and
 Higher Education, Ministry of Human Resource Development under the Chairmanship
 of Professor Mrinal Miri and Professor G.P. Deshpande, for their valuable time and
@@ -145,10 +104,9 @@ contribution. As an organisation committed to systemic reform and continuous
 improvement in the quality of its products, NCERT welcomes comments and suggestions
 which will enable us to undertake further revision and refinement.
 Director
-New Delhi
-National Council of Educational
-20 November 2006
-Research and Training
+New Delhi National Council of Educational
+20 November 2006 Research and Training
+(iv)
 
 RATIONALISATION OF CONTENT IN THE TEXTBOOK
 In view of the COVID-19 pandemic, it is imperative to reduce content load
@@ -159,22 +117,18 @@ exercise to rationalise the textbooks across all classes. Learning Outcomes
 already developed by the NCERT across classes have been taken into
 consideration in this exercise.
 Contents of the textbooks have been rationalised in view of the following:
-•
-Overlapping with similar content included in other subject areas in the
+• Overlapping with similar content included in other subject areas in the
 same class
-•
-Similar content included in the lower or higher class in the same subject
-•
-Difficulty level
-•
-Content, which is easily accessible to students without much
+• Similar content included in the lower or higher class in the same subject
+• Difficulty level
+• Content, which is easily accessible to students without much
 interventions from teachers and can be learned by children through
 self-learning or peer-learning
-•
-Content, which is irrelevant in the present context
+• Content, which is irrelevant in the present context
 This present edition, is a reformatted version after carrying out the
 changes given above.
 
+PR EF AC E
 This textbook of Science for Class X is a continuation of our attempt in the Class IX
 Science textbook to comply with the guidelines of the National Curriculum
 Framework-2005. We had to work within a limited time frame and also had our own
@@ -211,15 +165,7 @@ covered in the chapter. We have introduced some multiple choice questions in the
 exercises. There are problems of different difficulty levels answers to the multiple-
 choice questions and numericals, and hints for the difficult questions are included at
 the end of the book.
-P
-R
-E
-F
-A
-C
-E
 
-(viii)
 This book has been made possible because of the active participation of many
 people. I wish to thank Professor Krishna Kumar, Director, NCERT, Prof. G. Ravindra,
 Joint Director, NCERT, and Professor Hukum Singh, Head, Department of Education
@@ -239,12 +185,12 @@ Professor of Physics
 School of Physical Sciences
 Jawaharlal Nehru University
 New Delhi
+(vi)
 
-(ix)
-CHAIRMAN, ADVISORY GROUP FOR TEXTBOOKS IN SCIENCE AND MATHEMATICS
+TEXTBOOK DEVELOPMENT COMMITTEE C, AG SM HAIRMAN DVISORY ROUP FOR TEXTBOOKS IN CIENCE AND ATHEMATICS
 J.V. Narlikar, Emeritus Professor, Inter-University Centre for Astronomy and
 Astrophysics (IUCAA), Ganeshkhind, Pune University, Pune
-CHIEF ADVISOR
+CA HIEF DVISOR
 Rupamanjari Ghosh, Professor, School of Physical Sciences, Jawaharlal Nehru
 University, New Delhi
 MEMBERS
@@ -271,12 +217,11 @@ Sunita Ramrakhiani, PGT, Ahlcon Public School, Delhi
 Uma Sudhir, Eklavya, Indore, Madhya Pradesh
 Vandana Saxena, TGT, Kendriya Vidyalaya-4, Kandhar Lines, Delhi Cantt., New Delhi
 Vinod Kumar, Reader, Hans Raj College, Delhi University, Delhi
-MEMBER-COORDINATOR
+M- EMBER COORDINATOR
 Anjni Koul, Lecturer, DESM, NCERT, New Delhi
-TEXTBOOK DEVELOPMENT COMMITTEE
+(ix)
 
-(x)
-A C K N O W L E D G E M E N T S
+AC KN OW LE DG EM EN TS
 The National Council of Educational Research and Training (NCERT), besides expressing
 its gratefulness towards the members of the Textbook Development Committee for their
 contribution in the development of the Science Textbook for Class X, also acknowledges
@@ -312,104 +257,48 @@ DESM, administrative staff of DESM; Deepak Kapoor, Incharge, Computer Station, D
 Saima and Arvind Sharma, DTP Operators and Rajesh Handa, Illustrator;
 Mohd. Qamar Tabrez and Musarrat Parveen, Copy Editors; Seema Yadav, Proof Reader.
 The efforts of the Publication Department, NCERT are also highly appreciated.
+(x)
 
 (xi)
-CONTENTS
-Foreword
-iii
-Rationalisation of Content in the Textbooks
-v
-Preface
-vii
-Chapter 1
-Chemical Reactions and Equations
-1
-Chapter 2
-Acids, Bases and Salts
-17
-Chapter 3
-Metals and Non-metals
-37
-Chapter 4
-Carbon and its Compounds
-58
-Chapter 5
-Life Processes
-79
-Chapter 6
-Control and Coordination
-100
-Chapter 7
-How do Organisms Reproduce?
-113
-Chapter 8
-Heredity
-128
-Chapter 9
-Light – Reflection and Refraction
-134
-Chapter 10
-The Human Eye and the Colourful World
-161
-Chapter 11
-Electricity
-171
-Chapter 12
-Magnetic Effects of Electric Current
-195
-Chapter 13
-Our Environment
-208
-Answers
-218-219
-CONTENTS
+CONTENTS CONTENTS
+Foreword i
+Rationalisation of Content in the Textbooks v
+Preface vii
+Chapter 1 Chemical Reactions and Equations 1
+Chapter 2 Acids, Bases and Salts 17
+Chapter 3 Metals and Non-metals 37
+Chapter 4 Carbon and its Compounds 58
+Chapter 5 Life Processes 79
+Chapter 6 Control and Coordination 100
+Chapter 7 How do Organisms Reproduce? 113
+Chapter 8 Heredity 128
+Chapter 9 Light – Reflection and Refraction 134
+Chapter 10 The Human Eye and the Colourful World 161
+Chapter 11 Electricity 171
+Chapter 12 Magnetic Effects of Electric Current 195
+Chapter 13 Our Environment 208
+Answers 218-219
 
-(xii)
-WE,
-THE
-PEOPLE
-OF
-INDIA,
-[SOVEREIGN
-SOCIALIST
-SECULAR
-DEMOCRATIC REPUBLIC]
-JUSTICE,
-LIBERTY
-EQUALITY
-FRATERNITY
-IN OUR CONSTITUENT ASSEMBLY
-HEREBY ADOPT, ENACT AND GIVE TO
-OURSELVES THIS CONSTITUTION.
-having
+THE CONSTITUTION OF INDIA PREAMBLE
+WE, THE PEOPLE OF INDIA, having
 solemnly resolved to constitute India into a
-and to secure
-to all its citizens :
-social,
-economic
-and
+1[SOVEREIGN SOCIALIST SECULAR
+DEMOCRATIC REPUBLIC] and to secure
+toallitscitizens:
+JUSTICE, social, economic and
 political;
-of thought, expression, belief,
-faith and worship;
-of status and of opportunity;
-and to promote among them all
-assuring the dignity of
-the
-individual
-and
-the
-[unity
-and
-integrity of the Nation];
+LIBERTY of thought, expression, belief,
+faithandworship;
+EQUALITYofstatusandofopportunity;
+andtopromoteamongthemall
+FRATERNITY assuring the dignity of
+the individual and the 2[unity and
+integrityoftheNation];
+IN OUR CONSTITUENT ASSEMBLY
 this twenty-sixth day of November, 1949 do
-1
-2
-1.
-Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2,
-for "Sovereign Democratic Republic" (w.e.f. 3.1.1977)
-2.
-Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2,
-for "Unity of the Nation" (w.e.f. 3.1.1977)
-THE CONSTITUTION OF
-INDIA
-PREAMBLE
+HEREBY ADOPT, ENACT AND GIVE TO OURSELVESTHISCONSTITUTION.
+1. Subs.bytheConstitution(Forty-secondAmendment)Act,1976,Sec.2,
+for"SovereignDemocraticRepublic"(w.e.f.3.1.1977)
+2. Subs.bytheConstitution(Forty-secondAmendment)Act,1976,Sec.2,
+for"UnityoftheNation"(w.e.f.3.1.1977)
+(xii)

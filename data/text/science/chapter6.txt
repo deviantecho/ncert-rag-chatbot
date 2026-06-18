@@ -1,11 +1,8 @@
-Science
-100
-Control and
-Coordination
 6
 CHAPTER
-I
-n the previous chapter, we looked at life processes involved in the
+Control and
+Coordination
+In the previous chapter, we looked at life processes involved in the
 maintenance functions in living organisms. There, we had started with
 a notion we all have, that if we see something moving, it is alive. Some of
 these movements are in fact the result of growth, as in plants. A seed
@@ -18,7 +15,7 @@ chewing cud – these are not movements caused by growth.
 Why do we associate such visible movements with life? A possible
 answer is that we think of movement as a response to a change in the
 environment of the organism. The cat may be running because it has
-seen a mouse.  Not only that, we also think of movement as an attempt
+seen a mouse. Not only that, we also think of movement as an attempt
 by living organisms to use changes in their environment to their
 advantage. Plants grow out into the sunshine. Children try to get pleasure
 and fun out of swinging. Buffaloes chew cud to help break up tough
@@ -37,20 +34,11 @@ words, living organisms must use systems providing control and
 coordination. In keeping with the general principles of body organisation
 in multicellular organisms, specialised tissues are used to provide these
 control and coordination activities.
-6.1
-6.1
-6.1
-6.1
-6.1 ANIMALS – NERVOUS SYSTEM
-ANIMALS – NERVOUS SYSTEM
-ANIMALS – NERVOUS SYSTEM
-ANIMALS – NERVOUS SYSTEM
-ANIMALS – NERVOUS SYSTEM
+66666.....11111 AAAAANNNNNIIIIIMMMMMAAAAALLLLLSSSSS ––––– NNNNNEEEEERRRRRVVVVVOOOOOUUUUUSSSSS SSSSSYYYYYSSSSSTTTTTEEEEEMMMMM
 In animals, such control and coordination are provided by nervous and
 muscular tissues, which we have studied in Class IX. Touching a hot
+100 Science
 Reprint 2026-27
-Control and Coordination
-101
 object is an urgent and dangerous
 situation for us. We need to detect it,
 and respond to it. How do we detect that
@@ -60,6 +48,7 @@ detected by the specialised tips of some
 nerve cells. These receptors are usually
 located in our sense organs, such as the
 inner ear, the nose, the tongue, and so
+(a)
 on. So gustatory receptors will detect taste
 while olfactory receptors will detect smell.
 This information, acquired at the
@@ -71,12 +60,14 @@ cell body, and then along the axon to its
 end. At the end of the axon, the electrical
 impulse sets off the release of some
 chemicals. These chemicals cross the
-gap, or synapse, and start a similar
+gap, or synapse, and start a similar (b)
 electrical impulse in a dendrite of the next
+FFFFFiiiiiggggguuuuurrrrreeeee 66666.....11111 (a) Structure of neuron, (b) Neuromuscular
 neuron. This is a general scheme of how
+junction
 nervous impulses travel in the body. A
 similar synapse finally allows delivery of such impulses from neurons to
-other cells, such as muscles cells or gland  [Fig. 6.1 (b)].
+other cells, such as muscles cells or gland [Fig. 6.1 (b)].
 It is thus no surprise that nervous tissue is made up of an organised
 network of nerve cells or neurons, and is specialised for conducting
 information via electrical impulses from one part of the body to another.
@@ -84,34 +75,18 @@ Look at Fig. 6.1 (a) and identify the parts of a neuron (i) where
 information is acquired, (ii) through which information travels as an
 electrical impulse, and (iii) where this impulse must be converted into a
 chemical signal for onward transmission.
-Activity 6.1
-Activity 6.1
-Activity 6.1
-Activity 6.1
-Activity 6.1
-n
-Put some sugar in your mouth. How does it taste?
-n
-Block your nose by pressing it between your thumb and index
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 66666.....11111
+n Put some sugar in your mouth. How does it taste?
+n Block your nose by pressing it between your thumb and index
 finger. Now eat sugar again. Is there any difference in its taste?
-n
-While eating lunch, block your nose in the same way and notice if
+n While eating lunch, block your nose in the same way and notice if
 you can fully appreciate the taste of the food you are eating.
 Is there a difference in how sugar and food taste if your nose is
 blocked? If so, why might this be happening? Read and talk about
 possible explanations for these kinds of differences. Do you come across
 a similar situation when you have a cold?
-Figure 6.1 
-Figure 6.1 
-Figure 6.1 
-Figure 6.1 
-Figure 6.1 (a) Structure of neuron, (b) Neuromuscular
-junction
-(a)
-(b)
+Control and Coordination 101
 Reprint 2026-27
-Science
-102
 6.1.1 What happens in Reflex Actions?
 ‘Reflex’ is a word we use very commonly when we talk about some sudden
 action in response to something in the environment. We say ‘I jumped
@@ -127,7 +102,7 @@ flame is an urgent and dangerous situation for us, or in fact, for any
 animal! How would we respond to this? One seemingly simple way is to
 think consciously about the pain and the possibility of getting burnt,
 and therefore move our hand. An important question then is, how long
-will it take us to think all this? The answer depends on how we think.  If
+will it take us to think all this? The answer depends on how we think. If
 nerve impulses are sent around the way we have talked about earlier,
 then thinking is also likely to involve the creation of such impulses.
 Thinking is a complex activity, so it is bound to involve a complicated
@@ -154,15 +129,15 @@ each other. Nerves from all over the body meet in a bundle in the spinal
 cord on their way to the brain. Reflex arcs are formed in this spinal cord
 itself, although the information input also goes on to reach the brain.
 Of course, reflex arcs have evolved in animals because the thinking
-process of the brain is not fast enough.  In fact many animals have very
+process of the brain is not fast enough. In fact many animals have very
 little or none of the complex neuron network needed for thinking. So it is
 quite likely that reflex arcs have evolved as efficient ways of functioning
-in the absence of true thought processes.  However, even after complex
+in the absence of true thought processes. However, even after complex
 neuron networks have come into existence, reflex arcs continue to be
 more efficient for quick responses.
+102 Science
 Reprint 2026-27
-Control and Coordination
-103
+FFFFFiiiiiggggguuuuurrrrreeeee 66666.....22222 Reflex arc
 Can you now trace the sequence of events which occur when a bright
 light is focussed on your eyes?
 6.1.2 Human Brain
@@ -170,42 +145,37 @@ Is reflex action the only function of the spinal cord? Obviously not, since
 we know that we are thinking beings. Spinal cord is made up of nerves
 which supply information to think about. Thinking involves more
 complex mechanisms and neural connections. These are concentrated
-in the brain, which is the main coordinating centre of the body.  The
+in the brain, which is the main coordinating centre of the body. The
 brain and spinal cord constitute the central nervous system (Fig. 6.3).
 They receive information from all parts of the body and integrate it.
 We also think about our actions. Writing, talking, moving a chair,
 clapping at the end of a programme are examples of voluntary actions
-which are based on deciding what to do next.  So, the brain also has to
-send messages to muscles.  This is the second way in which the nervous
-system communicates with the muscles.  The communication between
+which are based on deciding what to do next. So, the brain also has to
+send messages to muscles. This is the second way in which the nervous
+system communicates with the muscles. The communication between
 the central nervous system and the other parts of the body is facilitated
 by the peripheral nervous system consisting of cranial nerves arising
 from the brain and spinal nerves arising from the spinal cord. The brain
-thus allows us to think and take actions based on that thinking.  As you
+thus allows us to think and take actions based on that thinking. As you
 will expect, this is accomplished through a complex design, with different
 parts of the brain responsible for integrating different inputs and outputs.
 The brain has three such major parts or regions, namely the fore-brain,
 mid-brain and hind-brain.
 The fore-brain is the main thinking part of the brain. It has regions
 which receive sensory impulses from various receptors. Separate areas
-of the fore-brain are specialised for hearing, smell, sight and so on.  There
+of the fore-brain are specialised for hearing, smell, sight and so on. There
 are separate areas of association where this sensory information is
 interpreted by putting it together with information from other receptors
-as well as with information that is already stored in the brain.  Based on
-Figure 6.2 
-Figure 6.2 
-Figure 6.2 
-Figure 6.2 
-Figure 6.2 Reflex arc
+as well as with information that is already stored in the brain. Based on
+Control and Coordination 103
 Reprint 2026-27
-Science
-104
 all this, a decision is made about how to respond and the information is
 passed on to the motor areas which control the movement of voluntary
-muscles, for example, our leg muscles.  However, certain sensations are
+muscles, for example, our leg muscles. However, certain sensations are
 distinct from seeing or hearing, for example, how do we know that we
 have eaten enough? The sensation of feeling full is because of a centre
-associated with  hunger, which is in a separate part of the fore-brain.
+associated with hunger, which is in a separate part of the fore-brain.
+FFFFFiiiiiggggguuuuurrrrreeeee 66666.....33333 Human brain
 Study the labelled diagram of the human brain. We have seen that
 the different parts have specific functions. Can we find out the function
 of each part?
@@ -227,14 +197,8 @@ called the cerebellum. It is responsible for precision of voluntary actions
 and maintaining the posture and balance of the body. Imagine what
 would happen if each of these events failed to take place if we were not
 thinking about it.
-Figure 6.3
-Figure 6.3
-Figure 6.3
-Figure 6.3
-Figure 6.3 Human brain
+104 Science
 Reprint 2026-27
-Control and Coordination
-105
 6.1.3 How are these Tissues protected?
 A delicate organ like the brain, which is so important for a variety of
 activities, needs to be carefully protected. For this, the body is designed
@@ -261,39 +225,14 @@ a shorter form. Remember when we talked about muscle tissue in
 Class IX, there were different kinds of muscles, such as voluntary muscles
 and involuntary muscles. Based on what we have discussed so far, what
 do you think the differences between these would be?
-Q
-U
-E
-S
-T
-I
-O
-N
-S
+Q U E S T I O N S
 ?
-1.
-What is the difference between a reflex action and walking?
-2.
-What happens at the synapse between two neurons?
-3.
-Which part of the brain maintains posture and equilibrium of the body?
-4.
-How do we detect the smell of an agarbatti (incense stick)?
-5.
-What is the role of the brain in reflex action?
-6.2 COORDINA
-6.2 COORDINA
-6.2 COORDINA
-6.2 COORDINA
-6.2 COORDINATION IN PL
-TION IN PL
-TION IN PL
-TION IN PL
-TION IN PLANTS
-ANTS
-ANTS
-ANTS
-ANTS
+1. What is the difference between a reflex action and walking?
+2. What happens at the synapse between two neurons?
+3. Which part of the brain maintains posture and equilibrium of the body?
+4. How do we detect the smell of an agarbatti (incense stick)?
+5. What is the role of the brain in reflex action?
+66666.....22222 CCCCCOOOOOOOOOORRRRRDDDDDIIIIINNNNNAAAAATTTTTIIIIIOOOOONNNNN IIIIINNNNN PPPPPLLLLLAAAAANNNNNTTTTTSSSSS
 Animals have a nervous system for controlling and coordinating the
 activities of the body. But plants have neither a nervous system nor
 muscles. So, how do they respond to stimuli? When we touch the leaves
@@ -301,9 +240,8 @@ of a chhui-mui (the ‘sensitive’ or ‘touch-me-not’ plant of the Mimosa
 family), they begin to fold up and droop. When a seed germinates, the
 root goes down, the stem comes up into the air. What happens? Firstly,
 the leaves of the sensitive plant move very quickly in response to touch.
+Control and Coordination 105
 Reprint 2026-27
-Science
-106
 There is no growth involved in this movement. On the other hand, the
 directional movement of a seedling is caused by growth. If it is prevented
 from growing, it will not show any movement. So plants show two different
@@ -315,11 +253,7 @@ plant. Since no growth is involved, the plant must actually move its leaves
 in response to touch. But there is no nervous tissue, nor any muscle
 tissue. How does the plant detect the touch, and how do the leaves move
 in response?
-Figure 6.4
-Figure 6.4
-Figure 6.4
-Figure 6.4
-Figure 6.4 The sensitive plant
+FFFFFiiiiiggggguuuuurrrrreeeee 66666.....44444 The sensitive plant
 If we think about where exactly the plant is touched, and what part
 of the plant actually moves, it is apparent that movement happens at a
 point different from the point of touch. So, information that a touch has
@@ -341,16 +275,38 @@ More commonly, plants respond to stimuli slowly by growing in a
 particular direction. Because this growth is directional, it appears as if
 the plant is moving. Let us understand this type of movement with the
 help of an example.
+106 Science
 Reprint 2026-27
-Control and Coordination
-107
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 66666.....22222
+n Fill a conical flask with water.
+n Cover the neck of the flask with a wire mesh.
+n Keep two or three freshly germinated bean
+seeds on the wire mesh.
+n Take a cardboard box which is open from one
+side.
+n Keep the flask in the box in such a manner
+that the open side of the box faces light coming
+from a window (Fig. 6.5).
+n After two or three days, you will notice that
+the shoots bend towards light and roots away
+from light.
+n Now turn the flask so that the shoots are away
+FFFFFiiiiiggggguuuuurrrrreeeee 66666.....55555
+from light and the roots towards light. Leave it
+Response of the plant to the direction of light
+undisturbed in this condition for a few days.
+n Have the old parts of the shoot and root
+changed direction?
+n Are there differences in the direction of the new
+growth?
+n What can we conclude from this activity?
 Environmental triggers such as light, or gravity
 will change the directions that plant parts grow in.
 These directional, or tropic, movements can be either
 towards the stimulus, or away from it. So, in two
 different kinds of phototropic movement, shoots
 respond by bending towards light while roots
-respond by bending away from it. How does this help
+respond by bending away from it. How does this help FFFFFiiiiiggggguuuuurrrrreeeee 66666.....66666 Plant showing geotropism
 the plant?
 Plants show tropism in response to other stimuli as well. The roots
 of a plant always grow downwards while the shoots usually grow
@@ -372,55 +328,8 @@ growth. Our arms and fingers grow in certain directions, not haphazardly.
 So controlled movements can be either slow or fast. If fast responses to
 stimuli are to be made, information transfer must happen very quickly.
 For this, the medium of transmission must be able to move rapidly.
-Activity 6.2
-Activity 6.2
-Activity 6.2
-Activity 6.2
-Activity 6.2
-n
-Fill a conical flask with water.
-n
-Cover the neck of the flask with a wire mesh.
-n
-Keep two or three freshly germinated bean
-seeds on the wire mesh.
-n
-Take a cardboard box which is open from one
-side.
-n
-Keep the flask in the box in such a manner
-that the open side of the box faces light coming
-from a window (Fig. 6.5).
-n
-After two or three days, you will notice that
-the shoots bend towards light and roots away
-from light.
-n
-Now turn the flask so that the shoots are away
-from light and the roots towards light. Leave it
-undisturbed in this condition for a few days.
-n
-Have the old parts of the shoot and root
-changed direction?
-n
-Are there differences in the direction of the new
-growth?
-n
-What can we conclude from this activity?
-Figure 6.5
-Figure 6.5
-Figure 6.5
-Figure 6.5
-Figure 6.5
-Response of the plant to the direction of light
-Figure 6.6 
-Figure 6.6 
-Figure 6.6 
-Figure 6.6 
-Figure 6.6 Plant showing geotropism
+Control and Coordination 107
 Reprint 2026-27
-Science
-108
 Electrical impulses are an excellent means for this. But there are
 limitations to the use of electrical impulses. Firstly, they will reach only
 those cells that are connected by nervous tissue, not each and every cell
@@ -456,35 +365,17 @@ areas of rapid cell division, such as in fruits and seeds. These are examples
 of plant hormones that help in promoting growth. But plants also need
 signals to stop growing. Abscisic acid is one example of a hormone which
 inhibits growth. Its effects include wilting of leaves.
-Q
-U
-E
-S
-T
-I
-O
-N
-S
+Q U E S T I O N S
 ?
-1.
-What are plant hormones?
-2.
-How is the movement of leaves of the sensitive plant different from the
+1. What are plant hormones?
+2. How is the movement of leaves of the sensitive plant different from the
 movement of a shoot towards light?
-3.
-Give an example of a plant hormone that promotes growth.
-4.
-How do auxins promote the growth of a tendril around a support?
-5.
-Design an experiment to demonstrate hydrotropism.
+3. Give an example of a plant hormone that promotes growth.
+4. How do auxins promote the growth of a tendril around a support?
+5. Design an experiment to demonstrate hydrotropism.
+108 Science
 Reprint 2026-27
-Control and Coordination
-109
-6.3 HORMONES IN ANIMALS
-6.3 HORMONES IN ANIMALS
-6.3 HORMONES IN ANIMALS
-6.3 HORMONES IN ANIMALS
-6.3 HORMONES IN ANIMALS
+66666.....33333 HHHHHOOOOORRRRRMMMMMOOOOONNNNNEEEEESSSSS IIIIINNNNN AAAAANNNNNIIIIIMMMMMAAAAALLLLLSSSSS
 How are such chemical, or hormonal, means of information transmission
 used in animals? What do some animals, for instance squirrels,
 experience when they are in a scary situation? Their bodies have to
@@ -514,17 +405,10 @@ diaphragm and the rib muscles. All these responses together enable the
 animal body to be ready to deal with the situation. Such animal hormones
 are part of the endocrine system which constitutes a second way of control
 and coordination in our body.
-Activity 6.3
-Activity 6.3
-Activity 6.3
-Activity 6.3
-Activity 6.3
-n
-Look at Fig. 6.7.
-n
-Identify the endocrine glands mentioned in the figure.
-n
-Some of these glands have been listed in Table 6.1 and discussed
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 66666.....33333
+n Look at Fig. 6.7.
+n Identify the endocrine glands mentioned in the figure.
+n Some of these glands have been listed in Table 6.1 and discussed
 in the text. Consult books in the library and discuss with your
 teachers to find out about other glands.
 Remember that plants have hormones that control their directional
@@ -536,176 +420,94 @@ that, even in animal bodies, growth happens in carefully controlled places.
 Plants will grow leaves in many places on the plant body, for example.
 But we do not grow fingers on our faces. The design of the body is carefully
 maintained even during the growth of children.
+Control and Coordination 109
 Reprint 2026-27
-Science
-110
+(a) (b)
+Figure 6.7 Endocrine glands in human beings (a) male, (b) female
 Let us examine some examples to understand how hormones help
 in coordinated growth. We have all seen salt packets which say ‘iodised
 salt’ or ‘enriched with iodine’. Why is it important for us to have iodised
 salt in our diet? Iodine is necessary for the thyroid gland to make
-thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat
+Do You Know? thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat
 metabolism in the body so as to provide the best balance for growth.
-Iodine is essential for the synthesis of thyroxin. In case iodine is deficient
-in our diet, there is a possibility that we might suffer from goitre. One
-of the symptoms in this disease is a swollen neck. Can you correlate
-this with the position of the thyroid gland in Fig. 6.7?
-Sometimes we come across people who are either very short (dwarfs)
-or extremely tall (giants). Have you ever wondered how this happens?
-Growth hormone is one of the hormones secreted by the pituitary. As
-its name indicates, growth hormone regulates growth and development
-of the body. If there is a deficiency of this hormone in childhood, it
-leads to dwarfism.
-You must have noticed many dramatic changes in your appearance
-as well as that of your friends as you approached 10–12 years of age.
-These changes associated with puberty are because of the secretion of
-testosterone in males and oestrogen in females.
-Do you know anyone in your family or friends who has been advised
+Hypothalamus plays Iodine is essential for the synthesis of thyroxin. In case iodine is deficient
+an important role in in our diet, there is a possibility that we might suffer from goitre. One
+the release of many of the symptoms in this disease is a swollen neck. Can you correlate
+hormones. For this with the position of the thyroid gland in Fig. 6.7?
+example, when the Sometimes we come across people who are either very short (dwarfs)
+level of growth or extremely tall (giants). Have you ever wondered how this happens?
+hormone is low, the Growth hormone is one of the hormones secreted by the pituitary. As
+hypothalamus its name indicates, growth hormone regulates growth and development
+releases growth of the body. If there is a deficiency of this hormone in childhood, it
+hormone releasing leads to dwarfism.
+factor which You must have noticed many dramatic changes in your appearance
+stimulates the as well as that of your friends as you approached 10–12 years of age.
+pituitary gland to These changes associated with puberty are because of the secretion of
+release growth testosterone in males and oestrogen in females.
+hormone. Do you know anyone in your family or friends who has been advised
 by the doctor to take less sugar in their diet because they are suffering
 from diabetes? As a treatment, they might be taking injections of insulin.
 This is a hormone which is produced by the pancreas and helps in
 regulating blood sugar levels. If it is not secreted in proper amounts,
 the sugar level in the blood rises causing many harmful effects.
-Figure 6.7 Endocrine glands in human beings (a) male, (b) female
-(a)
-(b)
-Do You Know?
-Hypothalamus plays
-an important role in
-the release of many
-hormones. For
-example, when the
-level of growth
-hormone is low, the
-hypothalamus
-releases growth
-hormone releasing
-factor which
-stimulates the
-pituitary gland to
-release growth
-hormone.
+110 Science
 Reprint 2026-27
-Control and Coordination
-111
 If it is so important that hormones should be secreted in precise
 quantities, we need a mechanism through which this is done. The timing
 and amount of hormone released are regulated by feedback mechanisms.
 For example, if the sugar levels in blood rise, they are detected by the
 cells of the pancreas which respond by producing more insulin. As the
 blood sugar level falls, insulin secretion is reduced.
-Table 6.1 : Some important hormones and their functions
-Activity 6.4
-Activity 6.4
-Activity 6.4
-Activity 6.4
-Activity 6.4
-n  Hormones are secreted by endocrine glands and have specific functions. Complete
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 66666.....44444
+n Hormones are secreted by endocrine glands and have specific functions. Complete
 Table 6.1 based on the hormone, the endocrine gland or the functions provided.
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-1.
-How does chemical coordination take place in animals?
-2.
-Why is the use of iodised salt advisable?
-3.
-How does our body respond when adrenaline is secreted into the blood?
-4.
-Why are some patients of diabetes treated by giving injections of insulin?
-What you have learnt
-?
-n
-Control and coordination are the functions of the nervous system and hormones
-in our bodies.
-n
-The responses of the nervous system can be classified as reflex action, voluntary
-action or involuntary action.
-n
-The nervous system uses electrical impulses to transmit messages.
-n
-The nervous system gets information from our sense organs and acts through our
-muscles.
-n
-Chemical coordination is seen in both plants and animals.
-n
-Hormones produced in one part of an organism move to another part to achieve
-the desired effect.
-n
-A feedback mechanism regulates the action of the hormones.
-S.No.
-Hormone
-Endocrine Gland
-Functions
-1.
-Growth hormone
-Pituitary gland
-Stimulates growth in all organs
-2.
-Thyroid gland
-Regulates metabolism for body growth
-3.
-Insulin
-Regulates blood sugar level
-4.
-Testosterone
-Testes
-5.
-Ovaries
-Development of female sex organs,
+Table 6.1 : Some important hormones and their functions
+S.No. Hormone Endocrine Gland Functions
+1. Growth hormone Pituitary gland Stimulates growth in all organs
+2. Thyroid gland Regulates metabolism for body growth
+3. Insulin Regulates blood sugar level
+4. Testosterone Testes
+5. Ovaries Development of female sex organs,
 regulates menstrual cycle, etc.
-6.
-Adrenaline
-Adrenal gland
-7.
-Releasing
-Stimulates pituitary gland to release
-hormones
-hormones
+6. Adrenaline Adrenal gland
+7. Releasing Stimulates pituitary gland to release
+hormones hormones
+Q U E S T I O N S
+?
+1. How does chemical coordination take place in animals?
+2. Why is the use of iodised salt advisable?
+3. How does our body respond when adrenaline is secreted into the blood?
+4. Why are some patients of diabetes treated by giving injections of insulin?
+What you have learnt
+n Control and coordination are the functions of the nervous system and hormones
+in our bodies.
+n The responses of the nervous system can be classified as reflex action, voluntary
+action or involuntary action.
+n The nervous system uses electrical impulses to transmit messages.
+n The nervous system gets information from our sense organs and acts through our
+muscles.
+n Chemical coordination is seen in both plants and animals.
+n Hormones produced in one part of an organism move to another part to achieve
+the desired effect.
+n A feedback mechanism regulates the action of the hormones.
+Control and Coordination 111
 Reprint 2026-27
-Science
-112
-E
-X
-E
-R
-C
-I
-S
-E
-S
+E X E R C I S E S
 1. Which of the following is a plant hormone?
-(a)
-Insulin
-(b)
-Thyroxin
-(c)
-Oestrogen
-(d)
-Cytokinin.
+(a) Insulin
+(b) Thyroxin
+(c) Oestrogen
+(d) Cytokinin.
 2. The gap between two neurons is called a
-(a)
-dendrite.
-(b)
-synapse.
-(c)
-axon.
-(d)
-impulse.
+(a) dendrite.
+(b) synapse.
+(c) axon.
+(d) impulse.
 3. The brain is responsible for
-(a)
-thinking.
-(b)
-regulating the heart beat.
-(c)
-balancing the body.
-(d)
-all of the above.
+(a) thinking.
+(b) regulating the heart beat.
+(c) balancing the body.
+(d) all of the above.
 4. What is the function of receptors in our body? Think of situations where receptors
 do not work properly. What problems are likely to arise?
 5. Draw the structure of a neuron and explain its function.
@@ -718,4 +520,5 @@ do not work properly. What problems are likely to arise?
 coordination in animals.
 12. What is the difference between the manner in which movement takes place in a
 sensitive plant and the movement in our legs?
+112 Science
 Reprint 2026-27

@@ -1,3 +1,4 @@
+
 from pathlib import Path
 import re
 import json
@@ -13,19 +14,32 @@ section_pattern = re.compile(
     r"^\d+\.\d+(\.\d+)?\s+[A-Z]"
 )
 
-def split_into_subchunks(text, max_words=400):
+
+def split_into_subchunks(
+    text,
+    max_words=250,
+    overlap=50
+):
 
     words = text.split()
 
     chunks = []
 
-    for i in range(0, len(words), max_words):
+    start = 0
+
+    while start < len(words):
+
+        end = start + max_words
 
         chunk = " ".join(
-            words[i:i + max_words]
+            words[start:end]
         )
 
         chunks.append(chunk)
+
+        start += (
+            max_words - overlap
+        )
 
     return chunks
 
@@ -43,9 +57,61 @@ for subject_folder in input_root.iterdir():
             errors="ignore"
         )
 
-        lines = text.splitlines()
+        raw_lines = text.splitlines()
+
+        # ----------------------------------
+        # Merge broken headings
+        # ----------------------------------
+
+        lines = []
+
+        i = 0
+
+        while i < len(raw_lines):
+
+            line = raw_lines[i].strip()
+
+            if section_pattern.match(line):
+
+                merged = line
+
+                j = i + 1
+
+                while (
+                    j < len(raw_lines)
+                    and raw_lines[j].strip()
+                    and not section_pattern.match(
+                        raw_lines[j].strip()
+                    )
+                    and len(
+                        raw_lines[j].strip()
+                    ) < 40
+                    and raw_lines[j].strip().isupper()
+                ):
+
+                    merged += (
+                        " "
+                        + raw_lines[j].strip()
+                    )
+
+                    j += 1
+
+                lines.append(merged)
+
+                i = j
+
+            else:
+
+                lines.append(line)
+
+                i += 1
+
+        # ----------------------------------
+        # Build chunks
+        # ----------------------------------
 
         current_section = None
+
         current_text = []
 
         for line in lines:
@@ -56,49 +122,103 @@ for subject_folder in input_root.iterdir():
 
                 if current_section:
 
-                    chunk_text = "\n".join(current_text)
+                    chunk_text = "\n".join(
+                        current_text
+                    )
 
-                    if len(chunk_text.strip()) >= 50:
+                    if len(
+                        chunk_text.strip()
+                    ) >= 50:
 
-                      subchunks = split_into_subchunks(chunk_text)
+                        subchunks = (
+                            split_into_subchunks(
+                                chunk_text
+                            )
+                        )
 
-                      for idx, subchunk in enumerate(subchunks, start=1):
+                        for idx, subchunk in enumerate(
+                            subchunks,
+                            start=1
+                        ):
 
-                        chunks.append({
-                          "subject": subject_folder.name,
-                          "chapter_file": txt_file.stem,
-                          "section": current_section,
-                          "chunk_id": idx,
-                          "text": subchunk
-        })
+                            chunks.append(
+                                {
+                                    "subject":
+                                        subject_folder.name,
+                                    "chapter_file":
+                                        txt_file.stem,
+                                    "section":
+                                        current_section,
+                                    "chunk_id":
+                                        idx,
+                                    "text":
+                                       current_section
+                                        + "\n\n"
+                                        + subchunk
+                                }
+                            )
 
                 current_section = line
+
                 current_text = []
+
             else:
+
                 current_text.append(line)
+
+        # ----------------------------------
+        # Last section
+        # ----------------------------------
 
         if current_section:
 
-            chunk_text = "\n".join(current_text)
+            chunk_text = "\n".join(
+                current_text
+            )
 
-            if len(chunk_text.strip()) >= 50:
+            if len(
+                chunk_text.strip()
+            ) >= 50:
 
-               subchunks = split_into_subchunks(chunk_text)
+                subchunks = (
+                    split_into_subchunks(
+                        chunk_text
+                    )
+                )
 
-               for idx, subchunk in enumerate(subchunks, start=1):
+                for idx, subchunk in enumerate(
+                    subchunks,
+                    start=1
+                ):
 
-                   chunks.append({
-                     "subject": subject_folder.name,
-                      "chapter_file": txt_file.stem,
-                      "section": current_section,
-                      "chunk_id": idx,
-                      "text": subchunk
-        })
-        
+                    chunks.append(
+                        {
+                            "subject":
+                                subject_folder.name,
+                            "chapter_file":
+                                txt_file.stem,
+                            "section":
+                                current_section,
+                            "chunk_id":
+                                idx,
+                            "text":
+                                current_section
+                                + "\n\n"
+                                + subchunk
+                        }
+                    )
 
-    output_file = output_root / f"{subject_folder.name}_chunks.json"
+    output_file = (
+        output_root
+        / f"{subject_folder.name}_chunks.json"
+    )
 
-    with open(output_file, "w", encoding="utf-8") as f:
+    with open(
+        output_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
         json.dump(
             chunks,
             f,
@@ -107,7 +227,9 @@ for subject_folder in input_root.iterdir():
         )
 
     print(
-        f"Created {len(chunks)} chunks for {subject_folder.name}"
+        f"Created {len(chunks)} chunks "
+        f"for {subject_folder.name}"
     )
 
 print("Chunking complete.")
+

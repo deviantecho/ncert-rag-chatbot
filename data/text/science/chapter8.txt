@@ -1,26 +1,7 @@
-Science
-128
-Figure 8.1
-Figure 8.1
-Figure 8.1
-Figure 8.1
-Figure 8.1
-Creation of diversity over succeeding
-generations. The original organism at the top
-will give rise to, say, two individuals, similar
-in body design, but with subtle differences.
-Each of them, in turn, will give rise to two
-individuals in the next generation. Each of
-the four individuals in the bottom row will
-be different from each other. While some of
-these differences will be unique, others will
-be inherited from their respective parents,
-who were different from each other.
-Heredity
 8
 CHAPTER
-W
-e have seen that reproductive processes give rise to new individuals
+Heredity
+We have seen that reproductive processes give rise to new individuals
 that are similar, but subtly different. We have discussed how some
 amount of variation is produced even during asexual reproduction. And
 the number of successful variations are maximised by the process of
@@ -30,32 +11,8 @@ including human beings, which reproduce sexually, quite distinct
 variations are visible among different individuals. In this chapter, we
 shall be studying the mechanism by which variations are created and
 inherited.
-8.1
-8.1
-8.1
-8.1
-8.1 ACCUMUL
-CCUMUL
-CCUMUL
-CCUMUL
-CCUMULATION OF V
-TION OF V
-TION OF V
-TION OF V
-TION OF VARIA
-ARIA
-ARIA
-ARIA
-ARIATION
-TION
-TION
-TION
-TION
-DURING REPRODUCTION
-DURING REPRODUCTION
-DURING REPRODUCTION
-DURING REPRODUCTION
-DURING REPRODUCTION
+88888.....11111 AAAAACCCCCCCCCCUUUUUMMMMMUUUUULLLLLAAAAATTTTTIIIIIOOOOONNNNN OOOOOFFFFF VVVVVAAAAARRRRRIIIIIAAAAATTTTTIIIIIOOOOONNNNN
+DDDDDUUUUURRRRRIIIIINNNNNGGGGG RRRRREEEEEPPPPPRRRRROOOOODDDDDUUUUUCCCCCTTTTTIIIIIOOOOONNNNN
 Inheritance from the previous generation provides
 both a common basic body design, and subtle
 changes in it, for the next generation. Now think
@@ -68,24 +25,35 @@ Figure 8.1 would represent the situation if a
 single individual reproduces, as happens in asexual
 reproduction. If one bacterium divides, and then the
 resultant two bacteria divide again, the four
+FFFFFiiiiiggggguuuuurrrrreeeee 88888.....11111
 individual bacteria generated would be very similar.
-There would be only very minor differences between
-them, generated due to small inaccuracies in DNA
-copying. However, if sexual reproduction is involved,
-even greater diversity will be generated, as we will
+Creation of diversity over succeeding
+generations. The original organism at the top There would be only very minor differences between
+will give rise to, say, two individuals, similar them, generated due to small inaccuracies in DNA
+in body design, but with subtle differences. copying. However, if sexual reproduction is involved,
+Each of them, in turn, will give rise to two even greater diversity will be generated, as we will
+individuals in the next generation. Each of
 see when we discuss the rules of inheritance.
+the four individuals in the bottom row will
 Do all these variations in a species have equal
+be different from each other. While some of
 chances of surviving in the environment in which they
-find themselves? Obviously not. Depending on the
-nature of variations, different individuals would have
+these differences will be unique, others will
+be inherited from their respective parents, find themselves? Obviously not. Depending on the
+who were different from each other. nature of variations, different individuals would have
+128 Science
 Reprint 2026-27
-Heredity
-129
-8.2 HEREDITY
-8.2 HEREDITY
-8.2 HEREDITY
-8.2 HEREDITY
-8.2 HEREDITY
+different kinds of advantages. Bacteria that can withstand heat will survive
+better in a heat wave, as we have discussed earlier. Selection of variants
+by environmental factors forms the basis for evolutionary processes, as
+we will discuss in later sections.
+Q U E S T I O N S
+?
+1. If a trait A exists in 10% of a population of an asexually reproducing
+species and a trait B exists in 60% of the same population, which trait
+is likely to have arisen earlier?
+2. How does the creation of variations in a species promote survival?
+88888.....22222 HHHHHEEEEERRRRREEEEEDDDDDIIIIITTTTTYYYYY
 The most obvious outcome of the reproductive process still remains the
 generation of individuals of similar design. The rules of heredity determine
 the process by which traits and characteristics are reliably inherited. Let
@@ -95,72 +63,47 @@ What exactly do we mean by similarities and differences? We know that
 a child bears all the basic features of a human being. However, it does
 not look exactly like its parents, and human populations show a great
 deal of variation.
-Q
-U
-E
-S
-T
-I
-O
-N
-S
-?
-1.
-If a trait A exists in 10% of a population of an asexually reproducing
-species and a trait B exists in 60% of the same population, which trait
-is likely to have arisen earlier?
-2.
-How does the creation of variations in a species promote survival?
-Activity 8.1
-Activity 8.1
-Activity 8.1
-Activity 8.1
-Activity 8.1
-n
-Observe the ears of all the students in the class. Prepare a list of
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 88888.....11111
+n Observe the ears of all the students in the class. Prepare a list of
 students having free or attached earlobes and calculate the
+(a)
 percentage of students having each (Fig. 8.2). Find out about the
 earlobes of the parents of each student in the class. Correlate the
 earlobe type of each student with that of their parents. Based on
 this evidence, suggest a possible rule for the inheritance of earlobe
 types.
-8.2.2 Rules for the Inheritance of Traits –
-Mendel’s Contributions
-The rules for inheritance of such traits in human beings are related to
-the fact that both the father and the mother contribute practically equal
-amounts of genetic material to the child. This means that each trait can
-be influenced by both paternal and maternal DNA. Thus, for each trait
-there will be two versions in each child. What will, then, the trait seen in
-the child be? Mendel (see box) worked out the main rules of such
-inheritance, and it is interesting to look at some of his experiments from
-more than a century ago.
-Figure 8.2
-Figure 8.2
-Figure 8.2
-Figure 8.2
-Figure 8.2
-(a) Free and (b) attached
-earlobes. The lowest part
-of the ear, called the
-earlobe, is closely attached
-to the side of the head in
-some of us, and not
-in others. Free and
-attached earlobes are two
-variants found in human
-populations.
-different kinds of advantages. Bacteria that can withstand heat will survive
-better in a heat wave, as we have discussed earlier. Selection of variants
-by environmental factors forms the basis for evolutionary processes, as
-we will discuss in later sections.
-(a)
+8.2.2 Rules for the Inheritance of Traits –––––
 (b)
+Mendel’s Contributions
+FFFFFiiiiiggggguuuuurrrrreeeee 88888.....22222
+(a) Free and (b) attached
+The rules for inheritance of such traits in human beings are related to
+earlobes. The lowest part
+the fact that both the father and the mother contribute practically equal
+of the ear, called the
+amounts of genetic material to the child. This means that each trait can earlobe, is closely attached
+be influenced by both paternal and maternal DNA. Thus, for each trait to the side of the head in
+some of us, and not
+there will be two versions in each child. What will, then, the trait seen in
+in others. Free and
+the child be? Mendel (see box) worked out the main rules of such
+attached earlobes are two
+inheritance, and it is interesting to look at some of his experiments from variants found in human
+more than a century ago. populations.
+Heredity 129
 Reprint 2026-27
-Science
-130
+Gregor Johann Mendel (1822–1884)
+Mendel was educated in a monastery and went on to study science and
+mathematics at the University of Vienna. Failure in the examinations for a
+teaching certificate did not suppress his zeal for scientific quest. He went
+back to his monastery and started growing peas. Many others had studied
+the inheritance of traits in peas and other organisms earlier, but Mendel
+blended his knowledge of science and mathematics and was the first one
+to keep count of individuals exhibiting a particular trait in each generation.
+This helped him to arrive at the laws of inheritance.
 Mendel used a number of contrasting visible characters of garden
 peas – round/wrinkled seeds, tall/short plants, white/violet flowers and
-so on.  He took pea plants with different characteristics – a tall plant and
+so on. He took pea plants with different characteristics – a tall plant and
 a short plant, produced progeny by crossing them, and calculated the
 percentages of tall or short progeny.
 In the first place, there were no halfway characteristics in this first-
@@ -184,29 +127,11 @@ organism. These two may be identical, or may be
 different, depending on the parentage. A pattern of
 inheritance can be worked out with this assumption,
 as shown in Fig. 8.3.
-Gregor Johann Mendel (1822–1884)
-Mendel was educated in a monastery and went on to study science and
-mathematics at the University of Vienna. Failure in the examinations for a
-teaching certificate did not suppress his zeal for scientific quest. He went
-back to his monastery and started growing peas. Many others had studied
-the inheritance of traits in peas and other organisms earlier, but Mendel
-blended his knowledge of science and mathematics and was the first one
-to keep count of individuals exhibiting a particular trait in each generation.
-This helped him to arrive at the laws of inheritance.
-Figure 8.3
-Figure 8.3
-Figure 8.3
-Figure 8.3
-Figure 8.3
+FFFFFiiiiiggggguuuuurrrrreeeee 88888.....33333
 Inheritance of traits
+AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy 88888.....22222
 over two generations
-Activity 8.2
-Activity 8.2
-Activity 8.2
-Activity 8.2
-Activity 8.2
-n
-In Fig. 8.3, what experiment would we do to confirm that the F2
+n In Fig. 8.3, what experiment would we do to confirm that the F2
 generation did in fact have a 1:2:1 ratio of TT, Tt and tt trait
 combinations?
 In this explanation, both TT and Tt are tall plants, while only tt is a
@@ -215,67 +140,8 @@ plant tall, while both copies have to be ‘t’ for the plant to be short. Trai
 like ‘T’ are called dominant traits, while those that behave like ‘t’ are
 called recessive traits. Work out which trait would be considered
 dominant and which one recessive in Fig. 8.4.
+130 Science
 Reprint 2026-27
-Heredity
-131
-x
-RR yy
-(round, green)
-rr YY
-(wrinkled, yellow)
-Ry
-rY
-Rr Yy
-(round, yellow)
-F1
-x
-Rr Yy
-F1
-Rr Yy
-F1
-315 round, yellow
-108 round, green
-101 wrinkled, yellow
-32 wrinkled, green
-9
-3
-3
-1
-556 seeds
-16
-RY
-Ry
-rY
-ry
-RY
-Ry
-rY
-ry
-RRYY
-RRYy
-RrYY
-RrYy
-RRYy
-RRyy
-RrYy
-Rryy
-RrYY
-RrYy
-rrYY
-rrYy
-RrYy
-Rryy
-rrYy
-rryy
-F2
-Figure 8.5
-Figure 8.5
-Figure 8.5
-Figure 8.5
-Figure 8.5
-Independent inheritance
-of two separate traits,
-shape and colour of seeds
 What happens when pea plants showing two different
 characteristics, rather than just one, are bred with each other?
 What do the progeny of a tall plant with round seeds and a short
@@ -284,53 +150,63 @@ round seeds. Tallness and round seeds are thus dominant traits.
 But what happens when these F1 progeny are used to generate
 F2 progeny by self-pollination? A Mendelian experiment will find
 that some F2 progeny are tall plants with round seeds, and some
-were short plants with wrinkled seeds.  However, there would also
+were short plants with wrinkled seeds. However, there would also
 be some F2 progeny that showed new combinations. Some of them
 would be tall, but have wrinkled seeds, while others would be short,
-but have round seeds. You can see as to how new combinations of
+but have round seeds. You can see as to how new combinations of FFFFFiiiiiggggguuuuurrrrreeeee 88888.....44444
 traits are formed in F2 offspring when factors controlling for seed
-shape and seed colour recombine to form zygote leading to form
+shape and seed colour recombine to form zygote leading to form x
 F2 offspring (Fig. 8.5). Thus, the tall/short trait and the round
-seed/wrinkled seed trait are independently inherited.
+RR yy rr YY
+seed/wrinkled seed trait are independently inherited. (round, green) (wrinkled, yellow)
+Ry rY
 8.2.3 How do these Traits get Expressed?
 How does the mechanism of heredity work? Cellular DNA is
-the information source for making proteins in the cell. A section
+F1
+the information source for making proteins in the cell. A section Rr Yy
+(round, yellow)
 of DNA that provides information for one protein is called the
-gene for that protein. How do proteins control the
-characteristics that we are discussing here? Let us take the
+gene for that protein. How do proteins control the x
+characteristics that we are discussing here? Let us take the Rr Yy Rr Yy
+F1 F1
 example of tallness as a characteristic. We know that plants
 have hormones that can trigger growth. Plant height can thus
+RY Ry rY ry
 depend on the amount of a particular plant hormone. The
+F2
 amount of the plant hormone made will depend on the
+RY
 efficiency of the process for making it. Consider now an enzyme
+RRYY RRYy RrYY RrYy
 that is important for this process. If this enzyme works
+Ry
 efficiently, a lot of hormone will be made, and the plant will be
+RRYy RRyy RrYy Rryy
 tall. If the gene for that enzyme has an alteration that makes
-the enzyme less efficient, the amount of hormone will be less,
-and the plant will be short. Thus, genes control characteristics,
-or traits.
-If the interpretations of Mendelian experiments we have been
+the enzyme less efficient, the amount of hormone will be less, rY
+and the plant will be short. Thus, genes control characteristics, RrYY RrYy rrYY rrYy
+or traits. ry
+If the interpretations of Mendelian experiments we have been RrYy Rryy rrYy rryy
 discussing are correct, then both parents must be contributing
-equally to the DNA of the progeny during sexual reproduction.
-We have disscussed this issue in the previous Chapter. If both
+equally to the DNA of the progeny during sexual reproduction. 315 round, yellow 9
+We have disscussed this issue in the previous Chapter. If both 108 round, green 3
 parents can help determine the trait in the progeny, both parents
+101 wrinkled, yellow 3
 must be contributing a copy of the same gene. This means that
+32 wrinkled, green 1
 each pea plant must have two sets of all genes, one inherited from
+556 seeds 16
 each parent. For this mechanism to work, each germ cell must
-have only one gene set.
-How do germ-cells make a single set of genes from the normal two
-copies that all other cells in the body have? If progeny plants inherited a
+have only one gene set. Figure 9.5 Independent inheritance of two
+separFFFFFateiiiii gggggtrauuuuuitrrrrrs,eeeee s h a88888pe..... 55555and colour of seeds
+How do germ-cells make a single set of genes from the normal two Independent inheritance
+copies that all other cells in the body have? If progeny plants inherited a of two separate traits,
+shape and colour of seeds
 single whole gene set from each parent, then the experiment explained
 in Fig. 8.5 cannot work. This is because the two characteristics ‘R’ and
 ‘y’ would then be linked to each other and cannot be independently
-Figure 8.4
-Figure 8.4
-Figure 8.4
-Figure 8.4
-Figure 8.4
+Heredity 131
 Reprint 2026-27
-Science
-132
 inherited. This is explained by the fact that each gene set is present, not
 as a single long thread of DNA, but as separate independent pieces,
 each called a chromosome. Thus, each cell will have two copies of each
@@ -375,85 +251,47 @@ half will be girls. All children will inherit an X chromosome
 from their mother regardless of whether they are boys or
 girls. Thus, the sex of the children will be determined by
 what they inherit from their father. A child who inherits
+FFFFFiiiiiggggguuuuurrrrreeeee 88888.....66666
 an X chromosome from her father will be a girl, and one
-who inherits a Y chromosome from him will be a boy.
-Figure 8.6
-Figure 8.6
-Figure 8.6
-Figure 8.6
-Figure 8.6
 Sex determination in
-human beings
+human beings who inherits a Y chromosome from him will be a boy.
+132 Science
 Reprint 2026-27
-Heredity
-133
-Q
-U
-E
-S
-T
-I
-O
-N
-S
+Q U E S T I O N S
+1. How do Mendel’s experiments show that traits may be dominant or
 ?
-1.
-How do Mendel’s experiments show that traits may be dominant or
 recessive?
-2.
-How do Mendel’s experiments show that traits are inherited
+2. How do Mendel’s experiments show that traits are inherited
 independently?
-3.
-A man with blood group A marries a woman with blood group O and
+3. A man with blood group A marries a woman with blood group O and
 their daughter has blood group O. Is this information enough to tell you
 which of the traits – blood group A or O – is dominant? Why or why not?
-4.
-How is the sex of the child determined in human beings?
+4. How is the sex of the child determined in human beings?
 What you have learnt
-n
-Variations arising during the process of reproduction can be inherited.
-n
-These variations may lead to increased survival of the individuals.
-n
-Sexually reproducing individuals have two copies of genes for the same trait. If the
+n Variations arising during the process of reproduction can be inherited.
+n These variations may lead to increased survival of the individuals.
+n Sexually reproducing individuals have two copies of genes for the same trait. If the
 copies are not identical, the trait that gets expressed is called the dominant trait
 and the other is called the recessive trait.
-n
-Traits in one individual may be inherited separately, giving rise to new combinations
+n Traits in one individual may be inherited separately, giving rise to new combinations
 of traits in the offspring of sexual reproduction.
-n
-Sex is determined by different factors in various species. In human beings, the
+n Sex is determined by different factors in various species. In human beings, the
 sex of the child depends on whether the paternal chromosome is X (for girls) or Y
 (for boys).
-E
-X
-E
-R
-C
-I
-S
-E
-S
-1.
-A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers
+E X E R C I S E S
+1. A Mendelian experiment consisted of breeding tall pea plants bearing violet flowers
 with short pea plants bearing white flowers. The progeny all bore violet flowers,
 but almost half of them were short. This suggests that the genetic make-up of the
 tall parent can be depicted as
-(a)
-TTWW
-(b)
-TTww
-(c)
-TtWW
-(d)
-TtWw
-2.
-A study found that children with light-coloured eyes are likely to have parents
+(a) TTWW
+(b) TTww
+(c) TtWW
+(d) TtWw
+2. A study found that children with light-coloured eyes are likely to have parents
 with light-coloured eyes. On this basis, can we say anything about whether the
 light eye colour trait is dominant or recessive? Why or why not?
-3.
-Outline a project which aims to find the dominant coat colour in dogs.
-4.
-How is the equal genetic contribution of male and female parents ensured in
+3. Outline a project which aims to find the dominant coat colour in dogs.
+4. How is the equal genetic contribution of male and female parents ensured in
 the progeny?
+Heredity 133
 Reprint 2026-27

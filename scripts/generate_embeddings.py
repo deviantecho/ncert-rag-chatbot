@@ -30,13 +30,15 @@ for chunk_file in chunks_folder.glob("*.json"):
         )
 
         embedding = model.encode(
-            embedding_text
+           embedding_text,
+           normalize_embeddings=True
         ).tolist()
 
         embedded_chunks.append({
             "subject": chunk["subject"],
             "chapter_file": chunk["chapter_file"],
             "section": chunk["section"],
+            "chunk_id": chunk["chunk_id"],
             "text": chunk["text"],
             "embedding": embedding
         })
