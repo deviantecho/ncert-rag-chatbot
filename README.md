@@ -39,7 +39,7 @@ Users can ask questions naturally and receive answers grounded in NCERT textbook
 
 The system retrieves the most relevant textbook chunks using semantic similarity search before generating an answer.
 
-![Retrieval Example](images/retrieval-example.png)
+![Retrieval Example](images/retrieval-details.png)
 
 ---
 
