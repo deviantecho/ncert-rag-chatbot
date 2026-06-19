@@ -190,7 +190,7 @@ with c2:
 with c3:
     st.metric(
         "Knowledge Chunks",
-        "465"
+        "785"
     )
 
 with c4:
